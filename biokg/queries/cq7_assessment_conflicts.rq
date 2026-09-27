@@ -1,0 +1,17 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ7. Which taxa receive different categories under the same assessment scheme in different documents?
+SELECT ?name ?family_scheme (GROUP_CONCAT(DISTINCT CONCAT(STRAFTER(STR(?src), "source/"), "=", ?scheme, "-", ?ver, ":", ?cat); separator=" | ") AS ?assessments)
+WHERE {
+  ?a1 bkg:assessedTaxon ?t ; bkg:scheme ?s1 ; bkg:category ?c1 .
+  ?a2 bkg:assessedTaxon ?t ; bkg:scheme ?s2 ; bkg:category ?c2 .
+  BIND(IF(?s1 IN ("DLDVN", "SDVN"), "VN_RedList", ?s1) AS ?family_scheme)
+  FILTER(IF(?s2 IN ("DLDVN", "SDVN"), "VN_RedList", ?s2) = ?family_scheme && ?c1 != ?c2)
+  ?a bkg:assessedTaxon ?t ; bkg:scheme ?scheme ; bkg:schemeVersion ?ver ; bkg:category ?cat ; prov:wasDerivedFrom ?src .
+  FILTER(IF(?scheme IN ("DLDVN", "SDVN"), "VN_RedList", ?scheme) = ?family_scheme)
+  ?t dwc:scientificName ?name .
+} GROUP BY ?name ?family_scheme ORDER BY ?name

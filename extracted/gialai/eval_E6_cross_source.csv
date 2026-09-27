@@ -1,0 +1,98 @@
+gbif_key,name,sources,src_names,vn_names,iucn,vn_redlist,iucn_conflict,src_family_conflict
+1408127.0,Drunella,"AH_CTN,BH_DVD",Drunella perculta,,"{""AH_CTN"": null, ""BH_DVD"": null}","{""AH_CTN"": null, ""BH_DVD"": null}",False,False
+2224515.0,Macrobrachium nipponense,"AH_DVD,BH_DVD",Macrobrachium nipponense,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+2224612.0,Macrobrachium equidens,"AH_DVD,BH_DVD",Macrobrachium equidens,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+2224787.0,Macrobrachium pilimanus,"AH_DVD,BH_DVD",Macrobrachium pilimanus,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+2292581.0,Pomacea bridgesii,"AH_DVD,BH_DVD",Pomacea bridgesi,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,True
+2292582.0,Pomacea canaliculata,"AH_DVD,AH_NL,BH_DVD",Pomacea canaliculata,Ốc bươu vàng Mỹ,"{""AH_DVD"": null, ""AH_NL"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""AH_NL"": null, ""BH_DVD"": null}",False,True
+2308574.0,Branchiura sowerbyi,"AH_DVD,BH_DVD",Branchiura sowerbyi,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+2315371.0,Namalycastis hawaiiensis,"AH_DVD,BH_DVD",Namalycastis hawaiiensis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,True
+2337685.0,Ompok siluroides,"IALY_CA,SESAN_CA",Ompok siluroides,Cá Trèn ầu; cá trèn bầu,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2337895.0,Kryptopterus cheveyi,"IALY_CA,SESAN_CA",Kryptopterus cheveyi,Cá Trèn; cá trèn,"{""SESAN_CA"": ""DD"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2338048.0,Bagrichthys macropterus,"IALY_CA,SESAN_CA",Bagrichthys macropterus,Cá Chốt cờ; cá chốt cờ,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2338172.0,Hemibagrus nemurus,"IALY_CA,SESAN_CA",Hemibagrus nemurus,Cá Lăng vàng; cá lăng vàng,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2338255.0,Hemibagrus wyckii,"IALY_CA,SESAN_CA",Hemibagrus wyckii,Cá Lăng ki; cá lăng ki,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2338280.0,Pseudomystus siamensis,"AH_CA,IALY_CA",Pseudomystus siamensis,Cá Chốt bông; Cá Chốt ông,"{""AH_CA"": null, ""IALY_CA"": null}","{""AH_CA"": null, ""IALY_CA"": null}",False,False
+2341327.0,Glyptothorax laosensis,"IALY_CA,SESAN_CA",Glyptothorax laosensis,Cá Chiên lăng; cá chiên lào,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2351761.0,Mastacembelus favus,"AH_CA,IALY_CA,SESAN_CA",Mastacembelus favus,Cá Chạch bông lớn; Cá Chạch ông lớn; cá chạch bông,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2351784.0,Mastacembelus armatus,"IALY_CA,SESAN_CA",Mastacembelus armatus,Cá Chạch sông; cá chạch sông,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2359512.0,Rasbora daniconius,"IALY_CA,SESAN_CA",Rasbora daniconius,Cá Lòng tong vạch; cá lòng tong vạch đen,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2359536.0,Rasbora borapetensis,"IALY_CA,SESAN_CA",Rasbora borapetensis,Cá Lòng tong đuôi đỏ; cá lòng tong đuôi đỏ,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2359627.0,Rasbora trilineata,"IALY_CA,SESAN_CA",Rasbora trilineata,Cá Lòng tong sọc; cá lòng tong sọc,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2360476.0,Amblyrhynchichthys truncatus,"IALY_CA,SESAN_CA",Amblyrhynchichthys truncatus,Cá Trao tráo; cá trao tráo,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2360866.0,Luciosoma bleekeri,"IALY_CA,SESAN_CA",Luciosoma bleekeri,Cá Lòng tong; cá lòng tong mương,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2361970.0,Crossocheilus oblongus,"IALY_CA,SESAN_CA",Crossocheilus oblongus,Cá Chuồn; cá hắc bạc,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2362030.0,Ctenopharyngodon idella,"AH_CA,IALY_CA,SESAN_CA",Ctenopharyngodon idella,Cá Trắm cỏ; cá trắm cỏ,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2362431.0,Cosmochilus harmandi,"IALY_CA,SESAN_CA",Cosmochilus harmandi,Cá Duồng ay; cá duồng bay,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2362473.0,Hypophthalmichthys molitrix,"AH_CA,IALY_CA,SESAN_CA",Hypophthalmichthys molitrix,Cá Mè trắng hoa nam; cá mè trắng hoa nam,"{""AH_CA"": ""NT"", ""SESAN_CA"": ""NT"", ""IALY_CA"": ""NT""}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2363847.0,Barbodes binotatus,"IALY_CA,SESAN_CA",Barbodes binotatus,Cá Trắng; cá trẳng,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2364120.0,Systomus orphoides,"IALY_CA,SESAN_CA",Systomus orphoides,Cá Đỏ mang; cá đỏ mang,"{""SESAN_CA"": null, ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2364311.0,Osteochilus melanopleurus,"IALY_CA,SESAN_CA",Osteochilus melanopleurus,Cá Mè hôi; cá mè hôi,"{""SESAN_CA"": null, ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2364327.0,Osteochilus vittatus,"AH_CA,IALY_CA,SESAN_CA",Osteochilus vittatus,Cá Mè lúi; cá mè lúi,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2364333.0,Osteochilus schlegelii,"IALY_CA,SESAN_CA",Osteochilus schlegelii,Cá Mè hương; cá mè hương,"{""SESAN_CA"": ""DD"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2364380.0,Osteochilus microcephalus,"AH_CA,SESAN_CA",Osteochilus microcephalus,Cá Lúi; cá lúi sọc,"{""AH_CA"": null, ""SESAN_CA"": ""LC""}","{""AH_CA"": null, ""SESAN_CA"": null}",False,False
+2364604.0,Esomus metallicus,"IALY_CA,SESAN_CA",Esomus metallicus,Cá Lòng tong sắt; cá lòng tong sắt,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2365526.0,Hypsibarbus lagleri,"IALY_CA,SESAN_CA",Hypsibarbus lagleri,Cá Hồng nhau; cá hồng nhau,"{""SESAN_CA"": ""VU"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2366101.0,Barbonymus schwanenfeldii,"IALY_CA,SESAN_CA",Barbonymus schwanenfeldii,Cá He vàng; cá he đỏ,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2366114.0,Barbonymus gonionotus,"AH_CA,IALY_CA",Barbonymus gonionotus,Cá Mè vinh,"{""AH_CA"": null, ""IALY_CA"": null}","{""AH_CA"": null, ""IALY_CA"": null}",False,False
+2366266.0,Labiobarbus lineatus,"IALY_CA,SESAN_CA",Labiobarbus lineatus,Cá Linh tía; cá linh rìa sọc,"{""SESAN_CA"": null, ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2367430.0,Hampala macrolepidota,"AH_CA,IALY_CA,SESAN_CA",Hampala macrolepidota,Cá Ngựa nam; cá ngựa nam,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2367775.0,Yasuhikotakia modesta,"IALY_CA,SESAN_CA",Yasuhikotakia modesta,Cá Heo vạch; cá heo vạch,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2368344.0,Gyrinocheilus pennocki,"IALY_CA,SESAN_CA",Gyrinocheilus pennocki,Cá Bám đá; cá bám đá,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2372396.0,Oreochromis mossambicus,"AH_NL,IALY_CA,SESAN_CA",Oreochromis mossambicus,Cá Rô phi đen; Cá rô phi đen; cá rô phi đen,"{""AH_NL"": null, ""SESAN_CA"": ""VU"", ""IALY_CA"": null}","{""AH_NL"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2376385.0,Papuligobius ocellatus,"IALY_CA,SESAN_CA",Papuligobius ocellatus,Cá Bống mắt; cá bống mắt,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2386241.0,Oxyeleotris marmorata,"AH_CA,IALY_CA,SESAN_CA",Oxyeleotris marmorata; Oxyeleotris marmoratus,Cá Bống tượng; cá bống tượng,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391455.0,Channa micropeltes,"IALY_CA,SESAN_CA",Channa micropeltes,Cá Lóc bông; cá lóc bông,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391463.0,Channa striata,"IALY_CA,SESAN_CA",Channa striata,Cá Lóc; cá lóc,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391505.0,Channa lucius,"IALY_CA,SESAN_CA",Channa lucius,Cá Tràu dày; cá tràu dày,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391514.0,Channa gachua,"IALY_CA,SESAN_CA",Channa gachua,Cá Chành đục; cá chành đục,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391548.0,Channa marulius,"IALY_CA,SESAN_CA",Channa marulius,Cá Tràu mắt; cá tràu mắt,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2391579.0,Anabas testudineus,"AH_CA,IALY_CA,SESAN_CA",Anabas testudineus,Cá Rô đồng; cá rô đồng,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2399391.0,Pristolepis fasciata,"IALY_CA,SESAN_CA",Pristolepis fasciata; Pristolepis fasciatus,Cá Rô sông; cá rô biển,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+2402260.0,Chitala ornata,"IALY_CA,SESAN_CA",Chitala ornata,Cá Còm; cá còm,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": ""VU"", ""IALY_CA"": null}",False,False
+4285694.0,Oreochromis niloticus,"AH_CA,IALY_CA,SESAN_CA",Oreochromis niloticus,Cá Rô phi vằn; cá rô phi vằn,"{""AH_CA"": ""LC"", ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+4286942.0,Carassius auratus,"AH_CA,IALY_CA",Carassius auratus,Cá Diếc mắt đỏ; Cá Diếc vàng,"{""AH_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""IALY_CA"": null}",False,False
+4286975.0,Cyprinus carpio,"AH_CA,IALY_CA,SESAN_CA",Cyprinus carpio,Cá Chép; cá chép,"{""AH_CA"": ""VU"", ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",True,False
+5201906.0,Mystus bocourti,"IALY_CA,SESAN_CA",Mystus bocourti,Cá Chốt cờ; cá chốt cờ,"{""SESAN_CA"": ""VU"", ""IALY_CA"": ""VU""}","{""SESAN_CA"": ""VU"", ""IALY_CA"": null}",False,False
+5202683.0,Clarias batrachus,"IALY_CA,SESAN_CA",Clarias batrachus,Cá Trê trắng; cá trê trắng,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5202694.0,Clarias fuscus,"IALY_CA,SESAN_CA",Clarias fuscus,Cá Trê đen; cá trê đen,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5202728.0,Clarias macrocephalus,"IALY_CA,SESAN_CA",Clarias macrocephalus,Cá Trê vàng; cá trê vàng,"{""SESAN_CA"": ""DD"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5202793.0,Clarias gariepinus,"AH_NL,IALY_CA",Clarias gariepinus,Cá Trê phi; Cá trê phi,"{""AH_NL"": null, ""IALY_CA"": null}","{""AH_NL"": null, ""IALY_CA"": null}",False,False
+5204055.0,Macrognathus siamensis,"IALY_CA,SESAN_CA",Macrognathus siamensis,Cá Chạch lá tre; cá chạch lá tre,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5204070.0,Macrognathus taeniagaster,"IALY_CA,SESAN_CA",Macrognathus taeniagaster,Cá Chạch rằn; cá chạch rằn,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5204081.0,Monopterus albus,"IALY_CA,SESAN_CA",Monopterus albus,Lươn; Lươn đồng,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5205979.0,Cirrhinus jullieni,"IALY_CA,SESAN_CA",Cirrhinus jullieni,Cá Linh ống; cá linh ống,"{""SESAN_CA"": ""DD"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206016.0,Labeo erythropterus,"IALY_CA,SESAN_CA",Labeo erythropterus,Cá Trôi đỏ; cá linh,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206083.0,Labeo rohita,"IALY_CA,SESAN_CA",Labeo rohita,Cá Rô hu; cá trôi ấn độ,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206198.0,Labeo chrysophekadion,"IALY_CA,SESAN_CA",Labeo chrysophekadion,Cá Ét mọi; cá ét mọi,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206447.0,Cirrhinus mrigala,"IALY_CA,SESAN_CA",Cirrhinus mrigala,Cá Trôi mrigal; cá trôi digan,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206449.0,Cirrhinus molitorella,"IALY_CA,SESAN_CA",Cirrhinus molitorella,Cá Trôi; cá trôi,"{""SESAN_CA"": ""NT"", ""IALY_CA"": ""NT""}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5206472.0,Cirrhinus microlepis,"IALY_CA,SESAN_CA",Cirrhinus microlepis,Cá Duồng; cá duồng,"{""SESAN_CA"": ""VU"", ""IALY_CA"": ""VU""}","{""SESAN_CA"": ""VU"", ""IALY_CA"": null}",False,False
+5207541.0,Thynnichthys thynnoides,"IALY_CA,SESAN_CA",Thynnichthys thynnoides,Cá Linh ản; cá linh cám,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5211160.0,Macropodus opercularis,"AH_CA,IALY_CA",Macropodus opercularis,Cá Thia cờ; Cá Đuôi cờ,"{""AH_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""IALY_CA"": null}",False,True
+5211169.0,Trichopodus trichopterus,"AH_CA,IALY_CA,SESAN_CA",Trichopodus trichopterus,Cá Sặc bướm; Cá Sặc ướm; cá sặc bướm,"{""AH_CA"": null, ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,True
+5211177.0,Trichopodus pectoralis,"IALY_CA,SESAN_CA",Trichopodus pectoralis,Cá Sặc rằn; cá sặc rằn,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,True
+5212862.0,Notopterus notopterus,"AH_CA,IALY_CA,SESAN_CA",Notopterus notopterus,Cá Thát lát; cá thát lát,"{""AH_CA"": ""LC"", ""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""AH_CA"": null, ""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+5213048.0,Anguilla marmorata,"IALY_CA,SESAN_CA",Anguilla marmorata,Cá Chình hoa; cá chình hoa,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": ""EN"", ""IALY_CA"": null}",False,False
+5735462.0,Caenis cornigera,"AH_CTN,BH_DVD",Caenis cornigera,,"{""AH_CTN"": null, ""BH_DVD"": null}","{""AH_CTN"": null, ""BH_DVD"": null}",False,False
+5790192.0,Donopotamon haii,"AH_DVD,BH_DVD",Donopotamon haii,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+5790464.0,Villopotamon sphaeridium,"AH_DVD,BH_DVD",Villopotamon sphaeridium,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+5863030.0,Caridina serrata,"AH_DVD,BH_DVD",Caridina serrata,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+6125991.0,Angulyagra polyzonata,"AH_DVD,BH_DVD",Angulyagra polyzonata,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+6134092.0,Choroterpes trifurcatus,"AH_CTN,BH_DVD",Choroterpes trifurcata,,"{""AH_CTN"": null, ""BH_DVD"": null}","{""AH_CTN"": null, ""BH_DVD"": null}",False,False
+6457020.0,Macrobrachium dalatense,"AH_DVD,BH_DVD",Macrobrachium dalatense,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+6457045.0,Macrobrachium thuylami,"AH_DVD,BH_DVD",Macrobrachium thuylami,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+6931794.0,Vietnamella thani,"AH_CTN,BH_DVD",Vietnamella thani,,"{""AH_CTN"": null, ""BH_DVD"": null}","{""AH_CTN"": null, ""BH_DVD"": null}",False,False
+7197091.0,Choroterpides major,"AH_CTN,BH_DVD",Choroterpides major,,"{""AH_CTN"": null, ""BH_DVD"": null}","{""AH_CTN"": null, ""BH_DVD"": null}",False,False
+7353486.0,Pseudodon mouhoti,"AH_DVD,BH_DVD",Pseudodon mouhotii,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+7386740.0,Sinanodonta jourdyi,"AH_DVD,BH_DVD",Sinanodonta jourdyi,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+7564873.0,Anematichthys repasson,"IALY_CA,SESAN_CA",Anematichthys repasson,Cá Ba kỳ trắng; cá ba kỳ,"{""SESAN_CA"": null, ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+7585698.0,Pilsbryoconcha exilis,"AH_DVD,BH_DVD",Pilsbryoconcha exilis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+7785631.0,Sulcospira tourannensis,"AH_DVD,BH_DVD",Sulcospira tourannensis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+8226458.0,Corbicula cyreniformis,"AH_DVD,BH_DVD",Corbicula cyreniformis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+8294275.0,Filopaludina sumatrensis,"AH_DVD,BH_DVD",Filopaludina sumatrensis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+8344124.0,Cipangopaludina lecythoides,"AH_DVD,BH_DVD",Cipangopaludina lecythoides,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+8774878.0,Corbicula baudoni,"AH_DVD,BH_DVD",Corbicula baudoni,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+9552418.0,Barbodes aurotaeniatus,"IALY_CA,SESAN_CA",Barbodes aurotaeniatus,Cá Dong chấm; cá đong chấm,"{""SESAN_CA"": ""LC"", ""IALY_CA"": null}","{""SESAN_CA"": null, ""IALY_CA"": null}",False,False
+10396167.0,Corbicula tenuis,"AH_DVD,BH_DVD",Corbicula tenuis,,"{""AH_DVD"": null, ""BH_DVD"": null}","{""AH_DVD"": null, ""BH_DVD"": null}",False,False
+10556037.0,Incisilabeo behri,"IALY_CA,SESAN_CA",Incisilabeo behri,Cá Mõm trâu; cá mõm trâu,"{""SESAN_CA"": ""VU"", ""IALY_CA"": null}","{""SESAN_CA"": ""VU"", ""IALY_CA"": ""VU""}",False,False

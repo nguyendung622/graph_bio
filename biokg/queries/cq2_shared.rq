@@ -1,0 +1,17 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ2. Which species are shared between waterbodies within the same taxonomic group?
+SELECT ?group ?wb1 ?wb2 (COUNT(DISTINCT ?name) AS ?shared) (GROUP_CONCAT(DISTINCT ?name; separator="; ") AS ?species)
+WHERE {
+  ?u1 a bkg:NameUsage ; bkg:recordedIn ?w1 ; prov:wasDerivedFrom ?s1 ; bkg:resolvesTo ?t1 ; bkg:isMorphospecies false .
+  ?u2 a bkg:NameUsage ; bkg:recordedIn ?w2 ; prov:wasDerivedFrom ?s2 ; bkg:resolvesTo ?t2 ; bkg:isMorphospecies false .
+  ?s1 bkg:taxonGroup ?group . ?s2 bkg:taxonGroup ?group .
+  ?t1 dwc:scientificName ?n1 . OPTIONAL { ?t1 bkg:acceptedNameGBIF ?a1 }
+  ?t2 dwc:scientificName ?n2 . OPTIONAL { ?t2 bkg:acceptedNameGBIF ?a2 }
+  BIND(COALESCE(?a1, ?n1) AS ?name) FILTER(COALESCE(?a2, ?n2) = ?name)
+  ?w1 rdfs:label ?wb1 . ?w2 rdfs:label ?wb2 . FILTER(STR(?wb1) < STR(?wb2))
+} GROUP BY ?group ?wb1 ?wb2 ORDER BY ?group ?wb1 ?wb2

@@ -1,0 +1,15 @@
+source,variant,records,names_equal_reference,records_without_binomial,canonical_found_verbatim
+AH_TVN,full,79,79.0,1,79
+AH_TVN,no_merge,79,73.0,7,79
+AH_DVN,full,55,55.0,0,54
+AH_DVN,no_merge,55,52.0,3,55
+AH_DVD,full,37,37.0,0,37
+AH_DVD,no_merge,36,,14,33
+AH_CA,full,33,33.0,0,33
+AH_CA,no_merge,33,33.0,0,33
+AH_NL,full,14,14.0,0,14
+AH_NL,no_merge,14,12.0,2,14
+IALY_CA,full,109,109.0,0,109
+IALY_CA,no_merge,109,109.0,0,109
+BH_DVD,full,71,71.0,0,71
+BH_DVD,no_merge,71,51.0,20,65

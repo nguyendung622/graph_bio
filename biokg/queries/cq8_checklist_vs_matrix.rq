@@ -1,0 +1,14 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ8. Consistency between a published checklist and the project's quantitative matrix (Ayun Ha phytoplankton):
+#      taxa in the paper checklist that never appear in any of the 8 campaigns of the appendix.
+SELECT ?name WHERE {
+  ?u a bkg:NameUsage ; prov:wasDerivedFrom <https://biokg.example.org/gialai/resource/source/AH_TVN> ;
+     bkg:resolvesTo ?t ; bkg:isMorphospecies false .
+  ?t dwc:scientificName ?name .
+  FILTER NOT EXISTS { ?o a bkg:AbundanceObservation ; bkg:observedTaxon ?t ; bkg:taxonGroup "phytoplankton" . }
+} ORDER BY ?name

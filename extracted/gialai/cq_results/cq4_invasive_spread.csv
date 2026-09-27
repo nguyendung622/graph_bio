@@ -1,0 +1,21 @@
+name,flag,waterbodies,recorded_in_sources
+Ctenopharyngodon idella,AlienSpecies,"Hồ Ayun Hạ, Sông Sê San, Hồ TĐ Ialy","source/AH_CA,source/SESAN_CA,source/IALY_CA"
+Hypophthalmichthys molitrix,AlienSpecies,"Hồ Ayun Hạ, Sông Sê San, Hồ TĐ Ialy","source/AH_CA,source/SESAN_CA,source/IALY_CA"
+Oreochromis mossambicus,PotentialInvasiveSpecies,"Hồ Ayun Hạ, Sông Sê San, Hồ TĐ Ialy","source/AH_NL,source/SESAN_CA,source/IALY_CA"
+Oreochromis niloticus,AlienSpecies,"Hồ Ayun Hạ, Sông Sê San, Hồ TĐ Ialy","source/AH_CA,source/SESAN_CA,source/IALY_CA"
+Pomacea canaliculata,InvasiveAlienSpecies,"Hồ Ayun Hạ, Biển Hồ","source/AH_DVD,source/AH_NL,source/BH_DVD"
+Barbonymus gonionotus,AlienSpecies,"Hồ Ayun Hạ, Hồ TĐ Ialy","source/AH_CA,source/IALY_CA"
+Clarias gariepinus,PotentialInvasiveSpecies,"Hồ Ayun Hạ, Hồ TĐ Ialy","source/AH_NL,source/IALY_CA"
+Achatina albopicta,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Ageratum conyzoides,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Chromolaena odorata,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Eichhornia crassipes,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Hypostomus punctatus,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Lantana camara,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Mimosa diplotricha,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Mimosa pigra,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Opuntia stricta,PotentialInvasiveSpecies,Hồ Ayun Hạ,source/AH_NL
+Oreochromis,AlienSpecies,Hồ Ayun Hạ,source/AH_CA
+Oxyeleotris marmorata,AlienSpecies,Hồ Ayun Hạ,source/AH_CA
+Phytophthora cinnamomi,InvasiveAlienSpecies,Hồ Ayun Hạ,source/AH_NL
+Sphagneticola trilobata,PotentialInvasiveSpecies,Hồ Ayun Hạ,source/AH_NL

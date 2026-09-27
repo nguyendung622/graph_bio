@@ -1,0 +1,16 @@
+name,time,site,density,chla,po4,nh4,transparency
+Microcystis aeruginosa,2021-03,M2,6210000.0,9.3,0.02,0.04,100.0
+Microcystis aeruginosa,2021-03,M1,3542000.0,10.1,0.01,0.01,100.0
+Microcystis aeruginosa,2021-03,M5,3358000.0,16.3,0.01,0.01,100.0
+Microcystis aeruginosa,2021-05,M2,3323500.0,10.2,0.03,0.04,85.0
+Microcystis aeruginosa,2021-03,M7,3312000.0,16.4,0.01,0.04,75.0
+Microcystis aeruginosa,2021-03,M9,2944000.0,12.7,0.03,0.02,75.0
+Microcystis aeruginosa,2021-03,M10,2369000.0,18.6,0.02,0.04,50.0
+Microcystis aeruginosa,2021-03,M8,2346000.0,19.6,0.01,0.01,80.0
+Microcystis aeruginosa,2021-03,M4,1932000.0,10.1,0.01,0.04,110.0
+Microcystis aeruginosa,2021-05,M1,1835400.0,12.0,0.02,0.02,80.0
+Microcystis aeruginosa,2021-03,M6,1794000.0,17.4,0.01,0.04,90.0
+Microcystis aeruginosa,2021-05,M5,1750300.0,18.0,0.02,0.03,85.0
+Microcystis aeruginosa,2021-05,M7,1666800.0,17.9,0.02,0.07,75.0
+Microcystis aeruginosa,2021-05,M9,1473350.0,14.4,0.05,0.04,80.0
+Microcystis aeruginosa,2021-05,M10,1184800.0,19.8,0.03,0.05,50.0

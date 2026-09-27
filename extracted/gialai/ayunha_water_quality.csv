@@ -1,0 +1,1497 @@
+source,waterbody,campaign,site,parameter,value
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Độ sâu (m),16.7
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Độ sâu (m),19.5
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Độ sâu (m),10.6
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Độ sâu (m),15.0
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Độ sâu (m),11.7
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Độ sâu (m),8.7
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Độ sâu (m),5.1
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Độ sâu (m),12.4
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Độ sâu (m),8.6
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Độ sâu (m),7.6
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Độ sâu (m),6.5
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Độ trong (cm),120.0
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Độ trong (cm),110.0
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Độ trong (cm),75.0
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Độ trong (cm),75.0
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Độ trong (cm),30.0
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Chl-a (ug/L),10.1
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Chl-a (ug/L),9.3
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Chl-a (ug/L),7.8
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Chl-a (ug/L),10.1
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Chl-a (ug/L),16.3
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Chl-a (ug/L),17.4
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Chl-a (ug/L),16.4
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Chl-a (ug/L),19.6
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Chl-a (ug/L),12.7
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Chl-a (ug/L),18.6
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Chl-a (ug/L),31.6
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Độ đục (NTU),12.5
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Độ đục (NTU),13.9
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Độ đục (NTU),11.9
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Độ đục (NTU),14.0
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Độ đục (NTU),14.3
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Độ đục (NTU),21.6
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Độ đục (NTU),18.2
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Độ đục (NTU),23.4
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Độ đục (NTU),23.3
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Độ đục (NTU),27.6
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Độ đục (NTU),55.7
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Nhiệt độ (0C),27.8
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Nhiệt độ (0C),27.9
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Nhiệt độ (0C),27.9
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Nhiệt độ (0C),27.9
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Nhiệt độ (0C),30.7
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Nhiệt độ (0C),29.7
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Nhiệt độ (0C),28.4
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Nhiệt độ (0C),31.3
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Nhiệt độ (0C),28.9
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Nhiệt độ (0C),28.5
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Nhiệt độ (0C),28.9
+AH_PL,Hồ Ayun Hạ,2021-03,M1,pH,8.04
+AH_PL,Hồ Ayun Hạ,2021-03,M2,pH,8.0
+AH_PL,Hồ Ayun Hạ,2021-03,M3,pH,7.82
+AH_PL,Hồ Ayun Hạ,2021-03,M4,pH,7.9
+AH_PL,Hồ Ayun Hạ,2021-03,M5,pH,7.34
+AH_PL,Hồ Ayun Hạ,2021-03,M6,pH,7.52
+AH_PL,Hồ Ayun Hạ,2021-03,M7,pH,7.23
+AH_PL,Hồ Ayun Hạ,2021-03,M8,pH,8.53
+AH_PL,Hồ Ayun Hạ,2021-03,M9,pH,7.82
+AH_PL,Hồ Ayun Hạ,2021-03,M10,pH,7.55
+AH_PL,Hồ Ayun Hạ,2021-03,M11,pH,8.38
+AH_PL,Hồ Ayun Hạ,2021-03,M1,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-03,M2,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-03,M3,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2021-03,M4,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-03,M5,EC (mS/cm),0.077
+AH_PL,Hồ Ayun Hạ,2021-03,M6,EC (mS/cm),0.078
+AH_PL,Hồ Ayun Hạ,2021-03,M7,EC (mS/cm),0.078
+AH_PL,Hồ Ayun Hạ,2021-03,M8,EC (mS/cm),0.078
+AH_PL,Hồ Ayun Hạ,2021-03,M9,EC (mS/cm),0.079
+AH_PL,Hồ Ayun Hạ,2021-03,M10,EC (mS/cm),0.081
+AH_PL,Hồ Ayun Hạ,2021-03,M11,EC (mS/cm),0.088
+AH_PL,Hồ Ayun Hạ,2021-03,M1,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-03,M2,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-03,M3,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2021-03,M4,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-03,M5,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-03,M6,TDS (mg/L),0.051
+AH_PL,Hồ Ayun Hạ,2021-03,M7,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-03,M8,TDS (mg/L),0.051
+AH_PL,Hồ Ayun Hạ,2021-03,M9,TDS (mg/L),0.051
+AH_PL,Hồ Ayun Hạ,2021-03,M10,TDS (mg/L),0.053
+AH_PL,Hồ Ayun Hạ,2021-03,M11,TDS (mg/L),0.057
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Độ cứng (mgCaCO3/L),25.1
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Độ cứng (mgCaCO3/L),25.6
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Độ cứng (mgCaCO3/L),24.4
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Độ cứng (mgCaCO3/L),25.3
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Độ cứng (mgCaCO3/L),25.1
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Độ cứng (mgCaCO3/L),25.8
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Độ cứng (mgCaCO3/L),25.9
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Độ cứng (mgCaCO3/L),24.2
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Độ cứng (mgCaCO3/L),23.4
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Độ cứng (mgCaCO3/L),23.5
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Độ cứng (mgCaCO3/L),24.7
+AH_PL,Hồ Ayun Hạ,2021-03,M1,DO (mg/L),7.62
+AH_PL,Hồ Ayun Hạ,2021-03,M2,DO (mg/L),6.55
+AH_PL,Hồ Ayun Hạ,2021-03,M3,DO (mg/L),5.74
+AH_PL,Hồ Ayun Hạ,2021-03,M4,DO (mg/L),6.32
+AH_PL,Hồ Ayun Hạ,2021-03,M5,DO (mg/L),6.85
+AH_PL,Hồ Ayun Hạ,2021-03,M6,DO (mg/L),9.55
+AH_PL,Hồ Ayun Hạ,2021-03,M7,DO (mg/L),6.32
+AH_PL,Hồ Ayun Hạ,2021-03,M8,DO (mg/L),9.61
+AH_PL,Hồ Ayun Hạ,2021-03,M9,DO (mg/L),6.35
+AH_PL,Hồ Ayun Hạ,2021-03,M10,DO (mg/L),6.37
+AH_PL,Hồ Ayun Hạ,2021-03,M11,DO (mg/L),8.11
+AH_PL,Hồ Ayun Hạ,2021-03,M1,BOD5 (mg/L),2.3
+AH_PL,Hồ Ayun Hạ,2021-03,M2,BOD5 (mg/L),1.9
+AH_PL,Hồ Ayun Hạ,2021-03,M3,BOD5 (mg/L),1.8
+AH_PL,Hồ Ayun Hạ,2021-03,M4,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2021-03,M5,BOD5 (mg/L),1.8
+AH_PL,Hồ Ayun Hạ,2021-03,M6,BOD5 (mg/L),1.8
+AH_PL,Hồ Ayun Hạ,2021-03,M7,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2021-03,M8,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2021-03,M9,BOD5 (mg/L),1.8
+AH_PL,Hồ Ayun Hạ,2021-03,M10,BOD5 (mg/L),2.1
+AH_PL,Hồ Ayun Hạ,2021-03,M11,BOD5 (mg/L),2.3
+AH_PL,Hồ Ayun Hạ,2021-03,M1,COD (mg/L),12.0
+AH_PL,Hồ Ayun Hạ,2021-03,M2,COD (mg/L),24.2
+AH_PL,Hồ Ayun Hạ,2021-03,M3,COD (mg/L),18.8
+AH_PL,Hồ Ayun Hạ,2021-03,M4,COD (mg/L),19.0
+AH_PL,Hồ Ayun Hạ,2021-03,M5,COD (mg/L),19.8
+AH_PL,Hồ Ayun Hạ,2021-03,M6,COD (mg/L),19.2
+AH_PL,Hồ Ayun Hạ,2021-03,M7,COD (mg/L),14.8
+AH_PL,Hồ Ayun Hạ,2021-03,M8,COD (mg/L),17.7
+AH_PL,Hồ Ayun Hạ,2021-03,M9,COD (mg/L),24.1
+AH_PL,Hồ Ayun Hạ,2021-03,M10,COD (mg/L),18.8
+AH_PL,Hồ Ayun Hạ,2021-03,M11,COD (mg/L),29.8
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Amoni (mgN-NH4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Amoni (mgN-NH4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Amoni (mgN-NH4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Amoni (mgN-NH4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Nitrat (mgN-NO3/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Nitrat (mgN-NO3/L),0.22
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Nitrat (mgN-NO3/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Nitrat (mgN-NO3/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Nitrat (mgN-NO3/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Nitrat (mgN-NO3/L),0.16
+AH_PL,Hồ Ayun Hạ,2021-03,M1,Tổng Fe (mg/L),0.11
+AH_PL,Hồ Ayun Hạ,2021-03,M2,Tổng Fe (mg/L),0.29
+AH_PL,Hồ Ayun Hạ,2021-03,M3,Tổng Fe (mg/L),0.16
+AH_PL,Hồ Ayun Hạ,2021-03,M4,Tổng Fe (mg/L),0.16
+AH_PL,Hồ Ayun Hạ,2021-03,M5,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2021-03,M6,Tổng Fe (mg/L),0.19
+AH_PL,Hồ Ayun Hạ,2021-03,M7,Tổng Fe (mg/L),0.19
+AH_PL,Hồ Ayun Hạ,2021-03,M8,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2021-03,M9,Tổng Fe (mg/L),0.33
+AH_PL,Hồ Ayun Hạ,2021-03,M10,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2021-03,M11,Tổng Fe (mg/L),0.61
+AH_PL,Hồ Ayun Hạ,2021-03,M1,TC (MPN/100mL),2400.0
+AH_PL,Hồ Ayun Hạ,2021-03,M2,TC (MPN/100mL),126.0
+AH_PL,Hồ Ayun Hạ,2021-03,M3,TC (MPN/100mL),42.0
+AH_PL,Hồ Ayun Hạ,2021-03,M4,TC (MPN/100mL),18.0
+AH_PL,Hồ Ayun Hạ,2021-03,M5,TC (MPN/100mL),90.0
+AH_PL,Hồ Ayun Hạ,2021-03,M6,TC (MPN/100mL),1860.0
+AH_PL,Hồ Ayun Hạ,2021-03,M7,TC (MPN/100mL),1860.0
+AH_PL,Hồ Ayun Hạ,2021-03,M8,TC (MPN/100mL),138.0
+AH_PL,Hồ Ayun Hạ,2021-03,M9,TC (MPN/100mL),36.0
+AH_PL,Hồ Ayun Hạ,2021-03,M10,TC (MPN/100mL),1260.0
+AH_PL,Hồ Ayun Hạ,2021-03,M11,TC (MPN/100mL),42.0
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Độ sâu (m),17.0
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Độ sâu (m),19.9
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Độ sâu (m),11.0
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Độ sâu (m),15.4
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Độ sâu (m),12.1
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Độ sâu (m),9.2
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Độ sâu (m),5.7
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Độ sâu (m),12.9
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Độ sâu (m),9.1
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Độ sâu (m),8.2
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Độ sâu (m),6.9
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Độ trong (cm),85.0
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Độ trong (cm),85.0
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Độ trong (cm),75.0
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Độ trong (cm),75.0
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Độ trong (cm),25.0
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Chl-a (ug/L),12.0
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Chl-a (ug/L),10.2
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Chl-a (ug/L),9.1
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Chl-a (ug/L),11.7
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Chl-a (ug/L),18.0
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Chl-a (ug/L),18.7
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Chl-a (ug/L),17.9
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Chl-a (ug/L),20.3
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Chl-a (ug/L),14.4
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Chl-a (ug/L),19.8
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Chl-a (ug/L),32.9
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Độ đục (NTU),14.2
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Độ đục (NTU),15.0
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Độ đục (NTU),13.1
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Độ đục (NTU),15.5
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Độ đục (NTU),16.6
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Độ đục (NTU),25.9
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Độ đục (NTU),24.3
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Độ đục (NTU),25.1
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Độ đục (NTU),25.1
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Độ đục (NTU),30.2
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Độ đục (NTU),55.2
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Nhiệt độ (0C),25.6
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Nhiệt độ (0C),24.5
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Nhiệt độ (0C),25.2
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Nhiệt độ (0C),24.8
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Nhiệt độ (0C),26.6
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Nhiệt độ (0C),25.8
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Nhiệt độ (0C),25.8
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Nhiệt độ (0C),26.3
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Nhiệt độ (0C),25.7
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Nhiệt độ (0C),25.9
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Nhiệt độ (0C),24.8
+AH_PL,Hồ Ayun Hạ,2021-05,M1,pH,7.24
+AH_PL,Hồ Ayun Hạ,2021-05,M2,pH,7.34
+AH_PL,Hồ Ayun Hạ,2021-05,M3,pH,7.12
+AH_PL,Hồ Ayun Hạ,2021-05,M4,pH,7.45
+AH_PL,Hồ Ayun Hạ,2021-05,M5,pH,7.12
+AH_PL,Hồ Ayun Hạ,2021-05,M6,pH,6.89
+AH_PL,Hồ Ayun Hạ,2021-05,M7,pH,6.57
+AH_PL,Hồ Ayun Hạ,2021-05,M8,pH,7.22
+AH_PL,Hồ Ayun Hạ,2021-05,M9,pH,7.45
+AH_PL,Hồ Ayun Hạ,2021-05,M10,pH,6.78
+AH_PL,Hồ Ayun Hạ,2021-05,M11,pH,7.71
+AH_PL,Hồ Ayun Hạ,2021-05,M1,EC (mS/cm),0.056
+AH_PL,Hồ Ayun Hạ,2021-05,M2,EC (mS/cm),0.058
+AH_PL,Hồ Ayun Hạ,2021-05,M3,EC (mS/cm),0.053
+AH_PL,Hồ Ayun Hạ,2021-05,M4,EC (mS/cm),0.057
+AH_PL,Hồ Ayun Hạ,2021-05,M5,EC (mS/cm),0.061
+AH_PL,Hồ Ayun Hạ,2021-05,M6,EC (mS/cm),0.063
+AH_PL,Hồ Ayun Hạ,2021-05,M7,EC (mS/cm),0.062
+AH_PL,Hồ Ayun Hạ,2021-05,M8,EC (mS/cm),0.063
+AH_PL,Hồ Ayun Hạ,2021-05,M9,EC (mS/cm),0.066
+AH_PL,Hồ Ayun Hạ,2021-05,M10,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2021-05,M11,EC (mS/cm),0.077
+AH_PL,Hồ Ayun Hạ,2021-05,M1,TDS (mg/L),0.037
+AH_PL,Hồ Ayun Hạ,2021-05,M2,TDS (mg/L),0.038
+AH_PL,Hồ Ayun Hạ,2021-05,M3,TDS (mg/L),0.035
+AH_PL,Hồ Ayun Hạ,2021-05,M4,TDS (mg/L),0.038
+AH_PL,Hồ Ayun Hạ,2021-05,M5,TDS (mg/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-05,M6,TDS (mg/L),0.041
+AH_PL,Hồ Ayun Hạ,2021-05,M7,TDS (mg/L),0.041
+AH_PL,Hồ Ayun Hạ,2021-05,M8,TDS (mg/L),0.041
+AH_PL,Hồ Ayun Hạ,2021-05,M9,TDS (mg/L),0.043
+AH_PL,Hồ Ayun Hạ,2021-05,M10,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2021-05,M11,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Độ cứng (mgCaCO3/L),26.3
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Độ cứng (mgCaCO3/L),27.1
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Độ cứng (mgCaCO3/L),25.8
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Độ cứng (mgCaCO3/L),26.7
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Độ cứng (mgCaCO3/L),27.2
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Độ cứng (mgCaCO3/L),27.1
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Độ cứng (mgCaCO3/L),27.0
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Độ cứng (mgCaCO3/L),26.1
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Độ cứng (mgCaCO3/L),25.2
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Độ cứng (mgCaCO3/L),24.8
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Độ cứng (mgCaCO3/L),25.9
+AH_PL,Hồ Ayun Hạ,2021-05,M1,DO (mg/L),7.12
+AH_PL,Hồ Ayun Hạ,2021-05,M2,DO (mg/L),7.09
+AH_PL,Hồ Ayun Hạ,2021-05,M3,DO (mg/L),6.77
+AH_PL,Hồ Ayun Hạ,2021-05,M4,DO (mg/L),7.55
+AH_PL,Hồ Ayun Hạ,2021-05,M5,DO (mg/L),7.23
+AH_PL,Hồ Ayun Hạ,2021-05,M6,DO (mg/L),7.85
+AH_PL,Hồ Ayun Hạ,2021-05,M7,DO (mg/L),7.11
+AH_PL,Hồ Ayun Hạ,2021-05,M8,DO (mg/L),7.55
+AH_PL,Hồ Ayun Hạ,2021-05,M9,DO (mg/L),6.88
+AH_PL,Hồ Ayun Hạ,2021-05,M10,DO (mg/L),6.89
+AH_PL,Hồ Ayun Hạ,2021-05,M11,DO (mg/L),7.77
+AH_PL,Hồ Ayun Hạ,2021-05,M1,BOD5 (mg/L),2.0
+AH_PL,Hồ Ayun Hạ,2021-05,M2,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-05,M3,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2021-05,M4,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2021-05,M5,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-05,M6,BOD5 (mg/L),1.5
+AH_PL,Hồ Ayun Hạ,2021-05,M7,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2021-05,M8,BOD5 (mg/L),1.5
+AH_PL,Hồ Ayun Hạ,2021-05,M9,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2021-05,M10,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2021-05,M11,BOD5 (mg/L),1.6
+AH_PL,Hồ Ayun Hạ,2021-05,M1,COD (mg/L),10.9
+AH_PL,Hồ Ayun Hạ,2021-05,M2,COD (mg/L),20.8
+AH_PL,Hồ Ayun Hạ,2021-05,M3,COD (mg/L),15.2
+AH_PL,Hồ Ayun Hạ,2021-05,M4,COD (mg/L),13.9
+AH_PL,Hồ Ayun Hạ,2021-05,M5,COD (mg/L),15.1
+AH_PL,Hồ Ayun Hạ,2021-05,M6,COD (mg/L),14.8
+AH_PL,Hồ Ayun Hạ,2021-05,M7,COD (mg/L),11.9
+AH_PL,Hồ Ayun Hạ,2021-05,M8,COD (mg/L),13.5
+AH_PL,Hồ Ayun Hạ,2021-05,M9,COD (mg/L),21.8
+AH_PL,Hồ Ayun Hạ,2021-05,M10,COD (mg/L),14.3
+AH_PL,Hồ Ayun Hạ,2021-05,M11,COD (mg/L),25.7
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Photphat (mgP-PO4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Photphat (mgP-PO4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Nitrat (mgN-NO3/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Nitrat (mgN-NO3/L),0.14
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Nitrat (mgN-NO3/L),0.24
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Nitrat (mgN-NO3/L),0.19
+AH_PL,Hồ Ayun Hạ,2021-05,M1,Tổng Fe (mg/L),0.13
+AH_PL,Hồ Ayun Hạ,2021-05,M2,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2021-05,M3,Tổng Fe (mg/L),0.18
+AH_PL,Hồ Ayun Hạ,2021-05,M4,Tổng Fe (mg/L),0.19
+AH_PL,Hồ Ayun Hạ,2021-05,M5,Tổng Fe (mg/L),0.37
+AH_PL,Hồ Ayun Hạ,2021-05,M6,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-05,M7,Tổng Fe (mg/L),0.2
+AH_PL,Hồ Ayun Hạ,2021-05,M8,Tổng Fe (mg/L),0.24
+AH_PL,Hồ Ayun Hạ,2021-05,M9,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2021-05,M10,Tổng Fe (mg/L),0.3
+AH_PL,Hồ Ayun Hạ,2021-05,M11,Tổng Fe (mg/L),0.72
+AH_PL,Hồ Ayun Hạ,2021-05,M1,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2021-05,M2,TC (MPN/100mL),200.0
+AH_PL,Hồ Ayun Hạ,2021-05,M3,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2021-05,M4,TC (MPN/100mL),240.0
+AH_PL,Hồ Ayun Hạ,2021-05,M5,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2021-05,M6,TC (MPN/100mL),120.0
+AH_PL,Hồ Ayun Hạ,2021-05,M7,TC (MPN/100mL),1800.0
+AH_PL,Hồ Ayun Hạ,2021-05,M8,TC (MPN/100mL),240.0
+AH_PL,Hồ Ayun Hạ,2021-05,M9,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2021-05,M10,TC (MPN/100mL),610.0
+AH_PL,Hồ Ayun Hạ,2021-05,M11,TC (MPN/100mL),2100.0
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Độ sâu (m),16.9
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Độ sâu (m),19.7
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Độ sâu (m),10.9
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Độ sâu (m),15.3
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Độ sâu (m),12.0
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Độ sâu (m),9.1
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Độ sâu (m),5.5
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Độ sâu (m),12.9
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Độ sâu (m),9.1
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Độ sâu (m),8.0
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Độ sâu (m),6.8
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Độ trong (cm),95.0
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Độ trong (cm),30.0
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Chl-a (ug/L),11.2
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Chl-a (ug/L),9.8
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Chl-a (ug/L),8.7
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Chl-a (ug/L),11.4
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Chl-a (ug/L),17.7
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Chl-a (ug/L),18.1
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Chl-a (ug/L),17.8
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Chl-a (ug/L),19.9
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Chl-a (ug/L),14.2
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Chl-a (ug/L),19.5
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Chl-a (ug/L),32.7
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Độ đục (NTU),13.7
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Độ đục (NTU),13.9
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Độ đục (NTU),12.8
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Độ đục (NTU),14.3
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Độ đục (NTU),15.2
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Độ đục (NTU),23.7
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Độ đục (NTU),21.4
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Độ đục (NTU),24.2
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Độ đục (NTU),24.7
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Độ đục (NTU),29.8
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Độ đục (NTU),55.5
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Nhiệt độ (0C),26.4
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Nhiệt độ (0C),26.6
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Nhiệt độ (0C),26.7
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Nhiệt độ (0C),26.2
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Nhiệt độ (0C),27.3
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Nhiệt độ (0C),27.5
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Nhiệt độ (0C),27.9
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Nhiệt độ (0C),27.2
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Nhiệt độ (0C),26.3
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Nhiệt độ (0C),26.9
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Nhiệt độ (0C),27.6
+AH_PL,Hồ Ayun Hạ,2021-09,M1,pH,7.33
+AH_PL,Hồ Ayun Hạ,2021-09,M2,pH,7.42
+AH_PL,Hồ Ayun Hạ,2021-09,M3,pH,7.24
+AH_PL,Hồ Ayun Hạ,2021-09,M4,pH,7.45
+AH_PL,Hồ Ayun Hạ,2021-09,M5,pH,7.23
+AH_PL,Hồ Ayun Hạ,2021-09,M6,pH,7.04
+AH_PL,Hồ Ayun Hạ,2021-09,M7,pH,6.82
+AH_PL,Hồ Ayun Hạ,2021-09,M8,pH,7.31
+AH_PL,Hồ Ayun Hạ,2021-09,M9,pH,7.66
+AH_PL,Hồ Ayun Hạ,2021-09,M10,pH,6.99
+AH_PL,Hồ Ayun Hạ,2021-09,M11,pH,7.97
+AH_PL,Hồ Ayun Hạ,2021-09,M1,EC (mS/cm),0.061
+AH_PL,Hồ Ayun Hạ,2021-09,M2,EC (mS/cm),0.065
+AH_PL,Hồ Ayun Hạ,2021-09,M3,EC (mS/cm),0.066
+AH_PL,Hồ Ayun Hạ,2021-09,M4,EC (mS/cm),0.058
+AH_PL,Hồ Ayun Hạ,2021-09,M5,EC (mS/cm),0.065
+AH_PL,Hồ Ayun Hạ,2021-09,M6,EC (mS/cm),0.068
+AH_PL,Hồ Ayun Hạ,2021-09,M7,EC (mS/cm),0.07
+AH_PL,Hồ Ayun Hạ,2021-09,M8,EC (mS/cm),0.071
+AH_PL,Hồ Ayun Hạ,2021-09,M9,EC (mS/cm),0.071
+AH_PL,Hồ Ayun Hạ,2021-09,M10,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2021-09,M11,EC (mS/cm),0.081
+AH_PL,Hồ Ayun Hạ,2021-09,M1,TDS (mg/L),0.037
+AH_PL,Hồ Ayun Hạ,2021-09,M2,TDS (mg/L),0.039
+AH_PL,Hồ Ayun Hạ,2021-09,M3,TDS (mg/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-09,M4,TDS (mg/L),0.035
+AH_PL,Hồ Ayun Hạ,2021-09,M5,TDS (mg/L),0.039
+AH_PL,Hồ Ayun Hạ,2021-09,M6,TDS (mg/L),0.041
+AH_PL,Hồ Ayun Hạ,2021-09,M7,TDS (mg/L),0.042
+AH_PL,Hồ Ayun Hạ,2021-09,M8,TDS (mg/L),0.043
+AH_PL,Hồ Ayun Hạ,2021-09,M9,TDS (mg/L),0.043
+AH_PL,Hồ Ayun Hạ,2021-09,M10,TDS (mg/L),0.046
+AH_PL,Hồ Ayun Hạ,2021-09,M11,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Độ cứng (mgCaCO3/L),26.0
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Độ cứng (mgCaCO3/L),26.7
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Độ cứng (mgCaCO3/L),25.4
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Độ cứng (mgCaCO3/L),26.4
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Độ cứng (mgCaCO3/L),26.8
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Độ cứng (mgCaCO3/L),26.7
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Độ cứng (mgCaCO3/L),26.9
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Độ cứng (mgCaCO3/L),25.8
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Độ cứng (mgCaCO3/L),24.9
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Độ cứng (mgCaCO3/L),23.5
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Độ cứng (mgCaCO3/L),24.7
+AH_PL,Hồ Ayun Hạ,2021-09,M1,DO (mg/L),7.27
+AH_PL,Hồ Ayun Hạ,2021-09,M2,DO (mg/L),7.29
+AH_PL,Hồ Ayun Hạ,2021-09,M3,DO (mg/L),7.17
+AH_PL,Hồ Ayun Hạ,2021-09,M4,DO (mg/L),7.11
+AH_PL,Hồ Ayun Hạ,2021-09,M5,DO (mg/L),7.03
+AH_PL,Hồ Ayun Hạ,2021-09,M6,DO (mg/L),8.56
+AH_PL,Hồ Ayun Hạ,2021-09,M7,DO (mg/L),7.26
+AH_PL,Hồ Ayun Hạ,2021-09,M8,DO (mg/L),8.17
+AH_PL,Hồ Ayun Hạ,2021-09,M9,DO (mg/L),6.98
+AH_PL,Hồ Ayun Hạ,2021-09,M10,DO (mg/L),7.19
+AH_PL,Hồ Ayun Hạ,2021-09,M11,DO (mg/L),8.03
+AH_PL,Hồ Ayun Hạ,2021-09,M1,BOD5 (mg/L),2.0
+AH_PL,Hồ Ayun Hạ,2021-09,M2,BOD5 (mg/L),1.6
+AH_PL,Hồ Ayun Hạ,2021-09,M3,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-09,M4,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-09,M5,BOD5 (mg/L),1.6
+AH_PL,Hồ Ayun Hạ,2021-09,M6,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2021-09,M7,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-09,M8,BOD5 (mg/L),1.6
+AH_PL,Hồ Ayun Hạ,2021-09,M9,BOD5 (mg/L),1.5
+AH_PL,Hồ Ayun Hạ,2021-09,M10,BOD5 (mg/L),1.9
+AH_PL,Hồ Ayun Hạ,2021-09,M11,BOD5 (mg/L),1.9
+AH_PL,Hồ Ayun Hạ,2021-09,M1,COD (mg/L),11.1
+AH_PL,Hồ Ayun Hạ,2021-09,M2,COD (mg/L),21.1
+AH_PL,Hồ Ayun Hạ,2021-09,M3,COD (mg/L),15.9
+AH_PL,Hồ Ayun Hạ,2021-09,M4,COD (mg/L),14.1
+AH_PL,Hồ Ayun Hạ,2021-09,M5,COD (mg/L),15.7
+AH_PL,Hồ Ayun Hạ,2021-09,M6,COD (mg/L),15.9
+AH_PL,Hồ Ayun Hạ,2021-09,M7,COD (mg/L),12.2
+AH_PL,Hồ Ayun Hạ,2021-09,M8,COD (mg/L),14.6
+AH_PL,Hồ Ayun Hạ,2021-09,M9,COD (mg/L),22.0
+AH_PL,Hồ Ayun Hạ,2021-09,M10,COD (mg/L),15.3
+AH_PL,Hồ Ayun Hạ,2021-09,M11,COD (mg/L),26.5
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Photphat (mgP-PO4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Amoni (mgN-NH4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Amoni (mgN-NH4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Nitrat (mgN-NO3/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Nitrat (mgN-NO3/L),0.23
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Nitrat (mgN-NO3/L),0.18
+AH_PL,Hồ Ayun Hạ,2021-09,M1,Tổng Fe (mg/L),0.12
+AH_PL,Hồ Ayun Hạ,2021-09,M2,Tổng Fe (mg/L),0.3
+AH_PL,Hồ Ayun Hạ,2021-09,M3,Tổng Fe (mg/L),0.17
+AH_PL,Hồ Ayun Hạ,2021-09,M4,Tổng Fe (mg/L),0.18
+AH_PL,Hồ Ayun Hạ,2021-09,M5,Tổng Fe (mg/L),0.35
+AH_PL,Hồ Ayun Hạ,2021-09,M6,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-09,M7,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-09,M8,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2021-09,M9,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2021-09,M10,Tổng Fe (mg/L),0.28
+AH_PL,Hồ Ayun Hạ,2021-09,M11,Tổng Fe (mg/L),0.69
+AH_PL,Hồ Ayun Hạ,2021-09,M1,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2021-09,M2,TC (MPN/100mL),300.0
+AH_PL,Hồ Ayun Hạ,2021-09,M3,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2021-09,M4,TC (MPN/100mL),360.0
+AH_PL,Hồ Ayun Hạ,2021-09,M5,TC (MPN/100mL),270.0
+AH_PL,Hồ Ayun Hạ,2021-09,M6,TC (MPN/100mL),180.0
+AH_PL,Hồ Ayun Hạ,2021-09,M7,TC (MPN/100mL),2100.0
+AH_PL,Hồ Ayun Hạ,2021-09,M8,TC (MPN/100mL),360.0
+AH_PL,Hồ Ayun Hạ,2021-09,M9,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2021-09,M10,TC (MPN/100mL),810.0
+AH_PL,Hồ Ayun Hạ,2021-09,M11,TC (MPN/100mL),2700.0
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Độ sâu (m),19.9
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Độ sâu (m),17.3
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Độ sâu (m),7.4
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Độ sâu (m),13.2
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Độ sâu (m),10.8
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Độ sâu (m),6.6
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Độ sâu (m),5.0
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Độ sâu (m),8.7
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Độ sâu (m),7.8
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Độ sâu (m),6.4
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Độ sâu (m),6.4
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Độ trong (cm),130.0
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Độ trong (cm),120.0
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Độ trong (cm),135.0
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Độ trong (cm),120.0
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Độ trong (cm),105.0
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Độ trong (cm),95.0
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Độ trong (cm),87.5
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Độ trong (cm),90.0
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Độ trong (cm),67.5
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Chl-a (ug/L),7.5
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Chl-a (ug/L),6.7
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Chl-a (ug/L),5.7
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Chl-a (ug/L),7.5
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Chl-a (ug/L),12.9
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Chl-a (ug/L),12.3
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Chl-a (ug/L),11.3
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Chl-a (ug/L),13.0
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Chl-a (ug/L),8.4
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Chl-a (ug/L),12.2
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Chl-a (ug/L),20.3
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Độ đục (NTU),8.31
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Độ đục (NTU),9.14
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Độ đục (NTU),8.29
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Độ đục (NTU),8.86
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Độ đục (NTU),10.13
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Độ đục (NTU),12.87
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Độ đục (NTU),12.18
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Độ đục (NTU),15.82
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Độ đục (NTU),18.4
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Độ đục (NTU),25.17
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Độ đục (NTU),35.29
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Nhiệt độ (0C),28.4
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Nhiệt độ (0C),28.3
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Nhiệt độ (0C),28.0
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Nhiệt độ (0C),28.5
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Nhiệt độ (0C),30.2
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Nhiệt độ (0C),30.6
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Nhiệt độ (0C),29.2
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Nhiệt độ (0C),30.5
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Nhiệt độ (0C),29.1
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Nhiệt độ (0C),29.0
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Nhiệt độ (0C),29.4
+AH_PL,Hồ Ayun Hạ,2021-12,M1,pH,8.54
+AH_PL,Hồ Ayun Hạ,2021-12,M2,pH,8.42
+AH_PL,Hồ Ayun Hạ,2021-12,M3,pH,8.22
+AH_PL,Hồ Ayun Hạ,2021-12,M4,pH,8.3
+AH_PL,Hồ Ayun Hạ,2021-12,M5,pH,8.12
+AH_PL,Hồ Ayun Hạ,2021-12,M6,pH,7.92
+AH_PL,Hồ Ayun Hạ,2021-12,M7,pH,7.62
+AH_PL,Hồ Ayun Hạ,2021-12,M8,pH,8.62
+AH_PL,Hồ Ayun Hạ,2021-12,M9,pH,8.06
+AH_PL,Hồ Ayun Hạ,2021-12,M10,pH,7.75
+AH_PL,Hồ Ayun Hạ,2021-12,M11,pH,8.35
+AH_PL,Hồ Ayun Hạ,2021-12,M1,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-12,M2,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-12,M3,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2021-12,M4,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2021-12,M5,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2021-12,M6,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2021-12,M7,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2021-12,M8,EC (mS/cm),0.078
+AH_PL,Hồ Ayun Hạ,2021-12,M9,EC (mS/cm),0.081
+AH_PL,Hồ Ayun Hạ,2021-12,M10,EC (mS/cm),0.084
+AH_PL,Hồ Ayun Hạ,2021-12,M11,EC (mS/cm),0.082
+AH_PL,Hồ Ayun Hạ,2021-12,M1,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-12,M2,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-12,M3,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2021-12,M4,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-12,M5,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2021-12,M6,TDS (mg/L),0.0495
+AH_PL,Hồ Ayun Hạ,2021-12,M7,TDS (mg/L),0.0485
+AH_PL,Hồ Ayun Hạ,2021-12,M8,TDS (mg/L),0.0505
+AH_PL,Hồ Ayun Hạ,2021-12,M9,TDS (mg/L),0.052
+AH_PL,Hồ Ayun Hạ,2021-12,M10,TDS (mg/L),0.055
+AH_PL,Hồ Ayun Hạ,2021-12,M11,TDS (mg/L),0.054
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Độ cứng (mgCaCO3/L),17.2
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Độ cứng (mgCaCO3/L),16.75
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Độ cứng (mgCaCO3/L),17.25
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Độ cứng (mgCaCO3/L),18.2
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Độ cứng (mgCaCO3/L),19.0
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Độ cứng (mgCaCO3/L),19.8
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Độ cứng (mgCaCO3/L),20.6
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Độ cứng (mgCaCO3/L),20.25
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Độ cứng (mgCaCO3/L),19.85
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Độ cứng (mgCaCO3/L),20.75
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Độ cứng (mgCaCO3/L),21.7
+AH_PL,Hồ Ayun Hạ,2021-12,M1,DO (mg/L),7.49
+AH_PL,Hồ Ayun Hạ,2021-12,M2,DO (mg/L),7.03
+AH_PL,Hồ Ayun Hạ,2021-12,M3,DO (mg/L),6.44
+AH_PL,Hồ Ayun Hạ,2021-12,M4,DO (mg/L),6.96
+AH_PL,Hồ Ayun Hạ,2021-12,M5,DO (mg/L),7.55
+AH_PL,Hồ Ayun Hạ,2021-12,M6,DO (mg/L),8.75
+AH_PL,Hồ Ayun Hạ,2021-12,M7,DO (mg/L),7.03
+AH_PL,Hồ Ayun Hạ,2021-12,M8,DO (mg/L),8.98
+AH_PL,Hồ Ayun Hạ,2021-12,M9,DO (mg/L),7.04
+AH_PL,Hồ Ayun Hạ,2021-12,M10,DO (mg/L),7.31
+AH_PL,Hồ Ayun Hạ,2021-12,M11,DO (mg/L),7.97
+AH_PL,Hồ Ayun Hạ,2021-12,M1,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-12,M2,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2021-12,M3,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2021-12,M4,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2021-12,M5,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2021-12,M6,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-12,M7,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2021-12,M8,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2021-12,M9,BOD5 (mg/L),1.4
+AH_PL,Hồ Ayun Hạ,2021-12,M10,BOD5 (mg/L),2.1
+AH_PL,Hồ Ayun Hạ,2021-12,M11,BOD5 (mg/L),3.0
+AH_PL,Hồ Ayun Hạ,2021-12,M1,COD (mg/L),16.3
+AH_PL,Hồ Ayun Hạ,2021-12,M2,COD (mg/L),21.85
+AH_PL,Hồ Ayun Hạ,2021-12,M3,COD (mg/L),20.2
+AH_PL,Hồ Ayun Hạ,2021-12,M4,COD (mg/L),19.65
+AH_PL,Hồ Ayun Hạ,2021-12,M5,COD (mg/L),19.3
+AH_PL,Hồ Ayun Hạ,2021-12,M6,COD (mg/L),19.3
+AH_PL,Hồ Ayun Hạ,2021-12,M7,COD (mg/L),17.1
+AH_PL,Hồ Ayun Hạ,2021-12,M8,COD (mg/L),19.65
+AH_PL,Hồ Ayun Hạ,2021-12,M9,COD (mg/L),22.75
+AH_PL,Hồ Ayun Hạ,2021-12,M10,COD (mg/L),19.5
+AH_PL,Hồ Ayun Hạ,2021-12,M11,COD (mg/L),24.95
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Nitrat (mgN-NO3/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Nitrat (mgN-NO3/L),0.14
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Nitrat (mgN-NO3/L),0.14
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Nitrat (mgN-NO3/L),0.15
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Nitrat (mgN-NO3/L),0.16
+AH_PL,Hồ Ayun Hạ,2021-12,M1,Tổng Fe (mg/L),0.1
+AH_PL,Hồ Ayun Hạ,2021-12,M2,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2021-12,M3,Tổng Fe (mg/L),0.13
+AH_PL,Hồ Ayun Hạ,2021-12,M4,Tổng Fe (mg/L),0.15
+AH_PL,Hồ Ayun Hạ,2021-12,M5,Tổng Fe (mg/L),0.29
+AH_PL,Hồ Ayun Hạ,2021-12,M6,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-12,M7,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2021-12,M8,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2021-12,M9,Tổng Fe (mg/L),0.29
+AH_PL,Hồ Ayun Hạ,2021-12,M10,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2021-12,M11,Tổng Fe (mg/L),0.32
+AH_PL,Hồ Ayun Hạ,2021-12,M1,TC (MPN/100mL),1800.0
+AH_PL,Hồ Ayun Hạ,2021-12,M2,TC (MPN/100mL),95.0
+AH_PL,Hồ Ayun Hạ,2021-12,M3,TC (MPN/100mL),32.0
+AH_PL,Hồ Ayun Hạ,2021-12,M4,TC (MPN/100mL),14.0
+AH_PL,Hồ Ayun Hạ,2021-12,M5,TC (MPN/100mL),60.0
+AH_PL,Hồ Ayun Hạ,2021-12,M6,TC (MPN/100mL),1400.0
+AH_PL,Hồ Ayun Hạ,2021-12,M7,TC (MPN/100mL),1400.0
+AH_PL,Hồ Ayun Hạ,2021-12,M8,TC (MPN/100mL),120.0
+AH_PL,Hồ Ayun Hạ,2021-12,M9,TC (MPN/100mL),27.0
+AH_PL,Hồ Ayun Hạ,2021-12,M10,TC (MPN/100mL),900.0
+AH_PL,Hồ Ayun Hạ,2021-12,M11,TC (MPN/100mL),32.0
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Độ sâu (m),23.0
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Độ sâu (m),15.0
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Độ sâu (m),4.1
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Độ sâu (m),11.3
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Độ sâu (m),9.9
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Độ sâu (m),4.5
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Độ sâu (m),4.8
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Độ sâu (m),4.9
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Độ sâu (m),7.0
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Độ sâu (m),5.2
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Độ sâu (m),6.3
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Độ trong (cm),160.0
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Độ trong (cm),140.0
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Độ trong (cm),150.0
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Độ trong (cm),130.0
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Độ trong (cm),110.0
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Độ trong (cm),60.0
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Chl-a (ug/L),4.8
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Chl-a (ug/L),4.2
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Chl-a (ug/L),3.7
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Chl-a (ug/L),4.8
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Chl-a (ug/L),9.5
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Chl-a (ug/L),7.2
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Chl-a (ug/L),6.2
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Chl-a (ug/L),6.4
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Chl-a (ug/L),4.0
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Chl-a (ug/L),5.8
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Chl-a (ug/L),9.0
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Độ đục (NTU),4.12
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Độ đục (NTU),4.37
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Độ đục (NTU),4.68
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Độ đục (NTU),3.72
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Độ đục (NTU),5.95
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Độ đục (NTU),4.14
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Độ đục (NTU),6.15
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Độ đục (NTU),8.24
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Độ đục (NTU),13.5
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Độ đục (NTU),22.73
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Độ đục (NTU),14.87
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Nhiệt độ (0C),29.1
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Nhiệt độ (0C),28.7
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Nhiệt độ (0C),28.2
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Nhiệt độ (0C),29.0
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Nhiệt độ (0C),29.7
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Nhiệt độ (0C),31.5
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Nhiệt độ (0C),29.9
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Nhiệt độ (0C),29.7
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Nhiệt độ (0C),29.3
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Nhiệt độ (0C),29.4
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Nhiệt độ (0C),30.0
+AH_PL,Hồ Ayun Hạ,2022-03,M1,pH,9.03
+AH_PL,Hồ Ayun Hạ,2022-03,M2,pH,8.84
+AH_PL,Hồ Ayun Hạ,2022-03,M3,pH,8.61
+AH_PL,Hồ Ayun Hạ,2022-03,M4,pH,8.69
+AH_PL,Hồ Ayun Hạ,2022-03,M5,pH,8.9
+AH_PL,Hồ Ayun Hạ,2022-03,M6,pH,8.31
+AH_PL,Hồ Ayun Hạ,2022-03,M7,pH,8.01
+AH_PL,Hồ Ayun Hạ,2022-03,M8,pH,8.71
+AH_PL,Hồ Ayun Hạ,2022-03,M9,pH,8.29
+AH_PL,Hồ Ayun Hạ,2022-03,M10,pH,7.95
+AH_PL,Hồ Ayun Hạ,2022-03,M11,pH,8.31
+AH_PL,Hồ Ayun Hạ,2022-03,M1,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-03,M2,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-03,M3,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-03,M4,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2022-03,M5,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-03,M6,EC (mS/cm),0.073
+AH_PL,Hồ Ayun Hạ,2022-03,M7,EC (mS/cm),0.072
+AH_PL,Hồ Ayun Hạ,2022-03,M8,EC (mS/cm),0.077
+AH_PL,Hồ Ayun Hạ,2022-03,M9,EC (mS/cm),0.082
+AH_PL,Hồ Ayun Hạ,2022-03,M10,EC (mS/cm),0.087
+AH_PL,Hồ Ayun Hạ,2022-03,M11,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2022-03,M1,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-03,M2,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-03,M3,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-03,M4,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2022-03,M5,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-03,M6,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-03,M7,TDS (mg/L),0.047
+AH_PL,Hồ Ayun Hạ,2022-03,M8,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-03,M9,TDS (mg/L),0.053
+AH_PL,Hồ Ayun Hạ,2022-03,M10,TDS (mg/L),0.056
+AH_PL,Hồ Ayun Hạ,2022-03,M11,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Độ cứng (mgCaCO3/L),9.3
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Độ cứng (mgCaCO3/L),7.9
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Độ cứng (mgCaCO3/L),10.1
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Độ cứng (mgCaCO3/L),11.1
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Độ cứng (mgCaCO3/L),12.9
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Độ cứng (mgCaCO3/L),13.8
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Độ cứng (mgCaCO3/L),15.3
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Độ cứng (mgCaCO3/L),16.3
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Độ cứng (mgCaCO3/L),16.3
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Độ cứng (mgCaCO3/L),18.0
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Độ cứng (mgCaCO3/L),18.7
+AH_PL,Hồ Ayun Hạ,2022-03,M1,DO (mg/L),7.35
+AH_PL,Hồ Ayun Hạ,2022-03,M2,DO (mg/L),7.51
+AH_PL,Hồ Ayun Hạ,2022-03,M3,DO (mg/L),7.13
+AH_PL,Hồ Ayun Hạ,2022-03,M4,DO (mg/L),7.6
+AH_PL,Hồ Ayun Hạ,2022-03,M5,DO (mg/L),8.25
+AH_PL,Hồ Ayun Hạ,2022-03,M6,DO (mg/L),7.94
+AH_PL,Hồ Ayun Hạ,2022-03,M7,DO (mg/L),7.73
+AH_PL,Hồ Ayun Hạ,2022-03,M8,DO (mg/L),8.35
+AH_PL,Hồ Ayun Hạ,2022-03,M9,DO (mg/L),7.72
+AH_PL,Hồ Ayun Hạ,2022-03,M10,DO (mg/L),8.25
+AH_PL,Hồ Ayun Hạ,2022-03,M11,DO (mg/L),7.82
+AH_PL,Hồ Ayun Hạ,2022-03,M1,BOD5 (mg/L),0.6
+AH_PL,Hồ Ayun Hạ,2022-03,M2,BOD5 (mg/L),0.6
+AH_PL,Hồ Ayun Hạ,2022-03,M3,BOD5 (mg/L),0.4
+AH_PL,Hồ Ayun Hạ,2022-03,M4,BOD5 (mg/L),0.9
+AH_PL,Hồ Ayun Hạ,2022-03,M5,BOD5 (mg/L),0.8
+AH_PL,Hồ Ayun Hạ,2022-03,M6,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2022-03,M7,BOD5 (mg/L),0.7
+AH_PL,Hồ Ayun Hạ,2022-03,M8,BOD5 (mg/L),0.9
+AH_PL,Hồ Ayun Hạ,2022-03,M9,BOD5 (mg/L),1.0
+AH_PL,Hồ Ayun Hạ,2022-03,M10,BOD5 (mg/L),2.1
+AH_PL,Hồ Ayun Hạ,2022-03,M11,BOD5 (mg/L),3.6
+AH_PL,Hồ Ayun Hạ,2022-03,M1,COD (mg/L),20.1
+AH_PL,Hồ Ayun Hạ,2022-03,M2,COD (mg/L),20.2
+AH_PL,Hồ Ayun Hạ,2022-03,M3,COD (mg/L),21.4
+AH_PL,Hồ Ayun Hạ,2022-03,M4,COD (mg/L),21.6
+AH_PL,Hồ Ayun Hạ,2022-03,M5,COD (mg/L),19.4
+AH_PL,Hồ Ayun Hạ,2022-03,M6,COD (mg/L),19.4
+AH_PL,Hồ Ayun Hạ,2022-03,M7,COD (mg/L),18.8
+AH_PL,Hồ Ayun Hạ,2022-03,M8,COD (mg/L),20.3
+AH_PL,Hồ Ayun Hạ,2022-03,M9,COD (mg/L),21.6
+AH_PL,Hồ Ayun Hạ,2022-03,M10,COD (mg/L),19.5
+AH_PL,Hồ Ayun Hạ,2022-03,M11,COD (mg/L),20.6
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Photphat (mgP-PO4/L),0.04
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Nitrat (mgN-NO3/L),0.16
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Nitrat (mgN-NO3/L),0.14
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Nitrat (mgN-NO3/L),0.21
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Nitrat (mgN-NO3/L),0.16
+AH_PL,Hồ Ayun Hạ,2022-03,M1,Tổng Fe (mg/L),0.23
+AH_PL,Hồ Ayun Hạ,2022-03,M2,Tổng Fe (mg/L),0.24
+AH_PL,Hồ Ayun Hạ,2022-03,M3,Tổng Fe (mg/L),0.23
+AH_PL,Hồ Ayun Hạ,2022-03,M4,Tổng Fe (mg/L),0.23
+AH_PL,Hồ Ayun Hạ,2022-03,M5,Tổng Fe (mg/L),0.24
+AH_PL,Hồ Ayun Hạ,2022-03,M6,Tổng Fe (mg/L),0.23
+AH_PL,Hồ Ayun Hạ,2022-03,M7,Tổng Fe (mg/L),0.22
+AH_PL,Hồ Ayun Hạ,2022-03,M8,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2022-03,M9,Tổng Fe (mg/L),0.25
+AH_PL,Hồ Ayun Hạ,2022-03,M10,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2022-03,M11,Tổng Fe (mg/L),0.33
+AH_PL,Hồ Ayun Hạ,2022-03,M1,TC (MPN/100mL),1200.0
+AH_PL,Hồ Ayun Hạ,2022-03,M2,TC (MPN/100mL),63.0
+AH_PL,Hồ Ayun Hạ,2022-03,M3,TC (MPN/100mL),21.0
+AH_PL,Hồ Ayun Hạ,2022-03,M4,TC (MPN/100mL),9.0
+AH_PL,Hồ Ayun Hạ,2022-03,M5,TC (MPN/100mL),45.0
+AH_PL,Hồ Ayun Hạ,2022-03,M6,TC (MPN/100mL),930.0
+AH_PL,Hồ Ayun Hạ,2022-03,M7,TC (MPN/100mL),930.0
+AH_PL,Hồ Ayun Hạ,2022-03,M8,TC (MPN/100mL),69.0
+AH_PL,Hồ Ayun Hạ,2022-03,M9,TC (MPN/100mL),18.0
+AH_PL,Hồ Ayun Hạ,2022-03,M10,TC (MPN/100mL),630.0
+AH_PL,Hồ Ayun Hạ,2022-03,M11,TC (MPN/100mL),21.0
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Độ sâu (m),11.7
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Độ sâu (m),13.4
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Độ sâu (m),6.2
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Độ sâu (m),11.1
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Độ sâu (m),10.2
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Độ sâu (m),4.8
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Độ sâu (m),5.5
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Độ sâu (m),4.4
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Độ sâu (m),7.2
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Độ sâu (m),7.1
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Độ sâu (m),4.6
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Độ trong (cm),180.0
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Độ trong (cm),160.0
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Độ trong (cm),140.0
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Độ trong (cm),170.0
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Độ trong (cm),120.0
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Độ trong (cm),120.0
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Độ trong (cm),80.0
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Chl-a (ug/L),14.8
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Chl-a (ug/L),17.1
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Chl-a (ug/L),15.5
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Chl-a (ug/L),13.6
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Chl-a (ug/L),10.6
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Chl-a (ug/L),15.8
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Chl-a (ug/L),25.8
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Chl-a (ug/L),12.9
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Chl-a (ug/L),19.5
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Chl-a (ug/L),18.6
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Chl-a (ug/L),43.4
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Độ đục (NTU),6.4
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Độ đục (NTU),6.7
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Độ đục (NTU),9.5
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Độ đục (NTU),9.7
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Độ đục (NTU),9.7
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Độ đục (NTU),12.2
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Độ đục (NTU),19.6
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Độ đục (NTU),14.3
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Độ đục (NTU),48.5
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Độ đục (NTU),54.2
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Độ đục (NTU),49.3
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Nhiệt độ (0C),30.2
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Nhiệt độ (0C),29.8
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Nhiệt độ (0C),29.3
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Nhiệt độ (0C),30.1
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Nhiệt độ (0C),30.8
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Nhiệt độ (0C),32.6
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Nhiệt độ (0C),31.0
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Nhiệt độ (0C),30.8
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Nhiệt độ (0C),30.4
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Nhiệt độ (0C),30.5
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Nhiệt độ (0C),31.1
+AH_PL,Hồ Ayun Hạ,2022-06,M1,pH,7.67
+AH_PL,Hồ Ayun Hạ,2022-06,M2,pH,7.43
+AH_PL,Hồ Ayun Hạ,2022-06,M3,pH,7.32
+AH_PL,Hồ Ayun Hạ,2022-06,M4,pH,7.19
+AH_PL,Hồ Ayun Hạ,2022-06,M5,pH,7.26
+AH_PL,Hồ Ayun Hạ,2022-06,M6,pH,7.34
+AH_PL,Hồ Ayun Hạ,2022-06,M7,pH,7.25
+AH_PL,Hồ Ayun Hạ,2022-06,M8,pH,7.32
+AH_PL,Hồ Ayun Hạ,2022-06,M9,pH,7.49
+AH_PL,Hồ Ayun Hạ,2022-06,M10,pH,7.38
+AH_PL,Hồ Ayun Hạ,2022-06,M11,pH,7.22
+AH_PL,Hồ Ayun Hạ,2022-06,M1,EC (mS/cm),0.115
+AH_PL,Hồ Ayun Hạ,2022-06,M2,EC (mS/cm),0.112
+AH_PL,Hồ Ayun Hạ,2022-06,M3,EC (mS/cm),0.114
+AH_PL,Hồ Ayun Hạ,2022-06,M4,EC (mS/cm),0.112
+AH_PL,Hồ Ayun Hạ,2022-06,M5,EC (mS/cm),0.111
+AH_PL,Hồ Ayun Hạ,2022-06,M6,EC (mS/cm),0.109
+AH_PL,Hồ Ayun Hạ,2022-06,M7,EC (mS/cm),0.108
+AH_PL,Hồ Ayun Hạ,2022-06,M8,EC (mS/cm),0.112
+AH_PL,Hồ Ayun Hạ,2022-06,M9,EC (mS/cm),0.105
+AH_PL,Hồ Ayun Hạ,2022-06,M10,EC (mS/cm),0.125
+AH_PL,Hồ Ayun Hạ,2022-06,M11,EC (mS/cm),0.111
+AH_PL,Hồ Ayun Hạ,2022-06,M1,TDS (mg/L),0.075
+AH_PL,Hồ Ayun Hạ,2022-06,M2,TDS (mg/L),0.073
+AH_PL,Hồ Ayun Hạ,2022-06,M3,TDS (mg/L),0.074
+AH_PL,Hồ Ayun Hạ,2022-06,M4,TDS (mg/L),0.073
+AH_PL,Hồ Ayun Hạ,2022-06,M5,TDS (mg/L),0.072
+AH_PL,Hồ Ayun Hạ,2022-06,M6,TDS (mg/L),0.071
+AH_PL,Hồ Ayun Hạ,2022-06,M7,TDS (mg/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-06,M8,TDS (mg/L),0.073
+AH_PL,Hồ Ayun Hạ,2022-06,M9,TDS (mg/L),0.068
+AH_PL,Hồ Ayun Hạ,2022-06,M10,TDS (mg/L),0.081
+AH_PL,Hồ Ayun Hạ,2022-06,M11,TDS (mg/L),0.072
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Độ cứng (mgCaCO3/L),9.2
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Độ cứng (mgCaCO3/L),9.9
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Độ cứng (mgCaCO3/L),8.2
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Độ cứng (mgCaCO3/L),7.9
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Độ cứng (mgCaCO3/L),6.1
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Độ cứng (mgCaCO3/L),6.4
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Độ cứng (mgCaCO3/L),6.9
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Độ cứng (mgCaCO3/L),6.8
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Độ cứng (mgCaCO3/L),5.7
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Độ cứng (mgCaCO3/L),8.3
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Độ cứng (mgCaCO3/L),10.1
+AH_PL,Hồ Ayun Hạ,2022-06,M1,DO (mg/L),7.82
+AH_PL,Hồ Ayun Hạ,2022-06,M2,DO (mg/L),6.48
+AH_PL,Hồ Ayun Hạ,2022-06,M3,DO (mg/L),6.49
+AH_PL,Hồ Ayun Hạ,2022-06,M4,DO (mg/L),6.16
+AH_PL,Hồ Ayun Hạ,2022-06,M5,DO (mg/L),5.95
+AH_PL,Hồ Ayun Hạ,2022-06,M6,DO (mg/L),6.24
+AH_PL,Hồ Ayun Hạ,2022-06,M7,DO (mg/L),5.76
+AH_PL,Hồ Ayun Hạ,2022-06,M8,DO (mg/L),5.76
+AH_PL,Hồ Ayun Hạ,2022-06,M9,DO (mg/L),5.81
+AH_PL,Hồ Ayun Hạ,2022-06,M10,DO (mg/L),6.04
+AH_PL,Hồ Ayun Hạ,2022-06,M11,DO (mg/L),5.46
+AH_PL,Hồ Ayun Hạ,2022-06,M1,BOD5 (mg/L),1.5
+AH_PL,Hồ Ayun Hạ,2022-06,M2,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2022-06,M3,BOD5 (mg/L),1.6
+AH_PL,Hồ Ayun Hạ,2022-06,M4,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2022-06,M5,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2022-06,M6,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2022-06,M7,BOD5 (mg/L),3.7
+AH_PL,Hồ Ayun Hạ,2022-06,M8,BOD5 (mg/L),1.7
+AH_PL,Hồ Ayun Hạ,2022-06,M9,BOD5 (mg/L),3.4
+AH_PL,Hồ Ayun Hạ,2022-06,M10,BOD5 (mg/L),3.9
+AH_PL,Hồ Ayun Hạ,2022-06,M11,BOD5 (mg/L),3.8
+AH_PL,Hồ Ayun Hạ,2022-06,M1,COD (mg/L),25.0
+AH_PL,Hồ Ayun Hạ,2022-06,M2,COD (mg/L),25.9
+AH_PL,Hồ Ayun Hạ,2022-06,M3,COD (mg/L),27.2
+AH_PL,Hồ Ayun Hạ,2022-06,M4,COD (mg/L),25.5
+AH_PL,Hồ Ayun Hạ,2022-06,M5,COD (mg/L),26.1
+AH_PL,Hồ Ayun Hạ,2022-06,M6,COD (mg/L),25.8
+AH_PL,Hồ Ayun Hạ,2022-06,M7,COD (mg/L),24.4
+AH_PL,Hồ Ayun Hạ,2022-06,M8,COD (mg/L),23.8
+AH_PL,Hồ Ayun Hạ,2022-06,M9,COD (mg/L),25.1
+AH_PL,Hồ Ayun Hạ,2022-06,M10,COD (mg/L),24.7
+AH_PL,Hồ Ayun Hạ,2022-06,M11,COD (mg/L),27.0
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Photphat (mgP-PO4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Photphat (mgP-PO4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Photphat (mgP-PO4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Photphat (mgP-PO4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Photphat (mgP-PO4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Photphat (mgP-PO4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Photphat (mgP-PO4/L),0.13
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Photphat (mgP-PO4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Photphat (mgP-PO4/L),0.13
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Photphat (mgP-PO4/L),0.16
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Photphat (mgP-PO4/L),0.33
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Amoni (mgN-NH4/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Amoni (mgN-NH4/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Amoni (mgN-NH4/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Nitrat (mgN-NO3/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Nitrat (mgN-NO3/L),0.15
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Nitrat (mgN-NO3/L),0.23
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Nitrat (mgN-NO3/L),0.17
+AH_PL,Hồ Ayun Hạ,2022-06,M1,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2022-06,M2,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2022-06,M3,Tổng Fe (mg/L),0.41
+AH_PL,Hồ Ayun Hạ,2022-06,M4,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2022-06,M5,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2022-06,M6,Tổng Fe (mg/L),0.2
+AH_PL,Hồ Ayun Hạ,2022-06,M7,Tổng Fe (mg/L),0.32
+AH_PL,Hồ Ayun Hạ,2022-06,M8,Tổng Fe (mg/L),0.38
+AH_PL,Hồ Ayun Hạ,2022-06,M9,Tổng Fe (mg/L),0.39
+AH_PL,Hồ Ayun Hạ,2022-06,M10,Tổng Fe (mg/L),0.41
+AH_PL,Hồ Ayun Hạ,2022-06,M11,Tổng Fe (mg/L),0.47
+AH_PL,Hồ Ayun Hạ,2022-06,M1,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2022-06,M2,TC (MPN/100mL),300.0
+AH_PL,Hồ Ayun Hạ,2022-06,M3,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2022-06,M4,TC (MPN/100mL),360.0
+AH_PL,Hồ Ayun Hạ,2022-06,M5,TC (MPN/100mL),270.0
+AH_PL,Hồ Ayun Hạ,2022-06,M6,TC (MPN/100mL),180.0
+AH_PL,Hồ Ayun Hạ,2022-06,M7,TC (MPN/100mL),2100.0
+AH_PL,Hồ Ayun Hạ,2022-06,M8,TC (MPN/100mL),360.0
+AH_PL,Hồ Ayun Hạ,2022-06,M9,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2022-06,M10,TC (MPN/100mL),810.0
+AH_PL,Hồ Ayun Hạ,2022-06,M11,TC (MPN/100mL),2700.0
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Độ sâu (m),11.2
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Độ sâu (m),13.9
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Độ sâu (m),5.0
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Độ sâu (m),10.5
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Độ sâu (m),9.5
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Độ sâu (m),4.1
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Độ sâu (m),5.0
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Độ sâu (m),3.8
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Độ sâu (m),7.7
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Độ sâu (m),6.2
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Độ sâu (m),3.3
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Độ trong (cm),70.0
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Độ trong (cm),60.0
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Độ trong (cm),40.0
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Độ trong (cm),60.0
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Độ trong (cm),20.0
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Độ trong (cm),15.0
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Độ trong (cm),20.0
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Chl-a (ug/L),12.9
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Chl-a (ug/L),14.8
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Chl-a (ug/L),13.5
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Chl-a (ug/L),11.9
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Chl-a (ug/L),9.2
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Chl-a (ug/L),13.7
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Chl-a (ug/L),22.5
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Chl-a (ug/L),11.2
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Chl-a (ug/L),17.0
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Chl-a (ug/L),16.2
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Chl-a (ug/L),37.8
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Độ đục (NTU),5.9
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Độ đục (NTU),6.4
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Độ đục (NTU),9.5
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Độ đục (NTU),9.5
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Độ đục (NTU),9.4
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Độ đục (NTU),12.7
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Độ đục (NTU),20.5
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Độ đục (NTU),13.1
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Độ đục (NTU),50.4
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Độ đục (NTU),58.1
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Độ đục (NTU),45.8
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Nhiệt độ (0C),29.6
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Nhiệt độ (0C),29.6
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Nhiệt độ (0C),29.1
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Nhiệt độ (0C),29.4
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Nhiệt độ (0C),29.0
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Nhiệt độ (0C),29.3
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Nhiệt độ (0C),29.2
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Nhiệt độ (0C),29.0
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Nhiệt độ (0C),29.3
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Nhiệt độ (0C),29.5
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Nhiệt độ (0C),29.0
+AH_PL,Hồ Ayun Hạ,2022-08,M1,pH,7.87
+AH_PL,Hồ Ayun Hạ,2022-08,M2,pH,7.56
+AH_PL,Hồ Ayun Hạ,2022-08,M3,pH,7.4
+AH_PL,Hồ Ayun Hạ,2022-08,M4,pH,7.3
+AH_PL,Hồ Ayun Hạ,2022-08,M5,pH,7.4
+AH_PL,Hồ Ayun Hạ,2022-08,M6,pH,7.21
+AH_PL,Hồ Ayun Hạ,2022-08,M7,pH,7.15
+AH_PL,Hồ Ayun Hạ,2022-08,M8,pH,7.02
+AH_PL,Hồ Ayun Hạ,2022-08,M9,pH,6.99
+AH_PL,Hồ Ayun Hạ,2022-08,M10,pH,7.02
+AH_PL,Hồ Ayun Hạ,2022-08,M11,pH,7.12
+AH_PL,Hồ Ayun Hạ,2022-08,M1,EC (mS/cm),0.095
+AH_PL,Hồ Ayun Hạ,2022-08,M2,EC (mS/cm),0.094
+AH_PL,Hồ Ayun Hạ,2022-08,M3,EC (mS/cm),0.095
+AH_PL,Hồ Ayun Hạ,2022-08,M4,EC (mS/cm),0.093
+AH_PL,Hồ Ayun Hạ,2022-08,M5,EC (mS/cm),0.096
+AH_PL,Hồ Ayun Hạ,2022-08,M6,EC (mS/cm),0.092
+AH_PL,Hồ Ayun Hạ,2022-08,M7,EC (mS/cm),0.089
+AH_PL,Hồ Ayun Hạ,2022-08,M8,EC (mS/cm),0.095
+AH_PL,Hồ Ayun Hạ,2022-08,M9,EC (mS/cm),0.088
+AH_PL,Hồ Ayun Hạ,2022-08,M10,EC (mS/cm),0.092
+AH_PL,Hồ Ayun Hạ,2022-08,M11,EC (mS/cm),0.2
+AH_PL,Hồ Ayun Hạ,2022-08,M1,TDS (mg/L),0.062
+AH_PL,Hồ Ayun Hạ,2022-08,M2,TDS (mg/L),0.061
+AH_PL,Hồ Ayun Hạ,2022-08,M3,TDS (mg/L),0.062
+AH_PL,Hồ Ayun Hạ,2022-08,M4,TDS (mg/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M5,TDS (mg/L),0.062
+AH_PL,Hồ Ayun Hạ,2022-08,M6,TDS (mg/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M7,TDS (mg/L),0.058
+AH_PL,Hồ Ayun Hạ,2022-08,M8,TDS (mg/L),0.061
+AH_PL,Hồ Ayun Hạ,2022-08,M9,TDS (mg/L),0.057
+AH_PL,Hồ Ayun Hạ,2022-08,M10,TDS (mg/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M11,TDS (mg/L),0.083
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Độ cứng (mgCaCO3/L),8.5
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Độ cứng (mgCaCO3/L),8.7
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Độ cứng (mgCaCO3/L),7.8
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Độ cứng (mgCaCO3/L),7.6
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Độ cứng (mgCaCO3/L),5.8
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Độ cứng (mgCaCO3/L),5.9
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Độ cứng (mgCaCO3/L),6.6
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Độ cứng (mgCaCO3/L),7.8
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Độ cứng (mgCaCO3/L),5.2
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Độ cứng (mgCaCO3/L),7.3
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Độ cứng (mgCaCO3/L),9.1
+AH_PL,Hồ Ayun Hạ,2022-08,M1,DO (mg/L),7.69
+AH_PL,Hồ Ayun Hạ,2022-08,M2,DO (mg/L),6.35
+AH_PL,Hồ Ayun Hạ,2022-08,M3,DO (mg/L),6.36
+AH_PL,Hồ Ayun Hạ,2022-08,M4,DO (mg/L),6.03
+AH_PL,Hồ Ayun Hạ,2022-08,M5,DO (mg/L),5.82
+AH_PL,Hồ Ayun Hạ,2022-08,M6,DO (mg/L),6.11
+AH_PL,Hồ Ayun Hạ,2022-08,M7,DO (mg/L),5.63
+AH_PL,Hồ Ayun Hạ,2022-08,M8,DO (mg/L),5.63
+AH_PL,Hồ Ayun Hạ,2022-08,M9,DO (mg/L),5.68
+AH_PL,Hồ Ayun Hạ,2022-08,M10,DO (mg/L),5.91
+AH_PL,Hồ Ayun Hạ,2022-08,M11,DO (mg/L),5.33
+AH_PL,Hồ Ayun Hạ,2022-08,M1,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2022-08,M2,BOD5 (mg/L),0.5
+AH_PL,Hồ Ayun Hạ,2022-08,M3,BOD5 (mg/L),0.3
+AH_PL,Hồ Ayun Hạ,2022-08,M4,BOD5 (mg/L),0.2
+AH_PL,Hồ Ayun Hạ,2022-08,M5,BOD5 (mg/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-08,M6,BOD5 (mg/L),0.5
+AH_PL,Hồ Ayun Hạ,2022-08,M7,BOD5 (mg/L),3.7
+AH_PL,Hồ Ayun Hạ,2022-08,M8,BOD5 (mg/L),0.9
+AH_PL,Hồ Ayun Hạ,2022-08,M9,BOD5 (mg/L),3.4
+AH_PL,Hồ Ayun Hạ,2022-08,M10,BOD5 (mg/L),3.2
+AH_PL,Hồ Ayun Hạ,2022-08,M11,BOD5 (mg/L),3.6
+AH_PL,Hồ Ayun Hạ,2022-08,M1,COD (mg/L),22.7
+AH_PL,Hồ Ayun Hạ,2022-08,M2,COD (mg/L),23.6
+AH_PL,Hồ Ayun Hạ,2022-08,M3,COD (mg/L),24.7
+AH_PL,Hồ Ayun Hạ,2022-08,M4,COD (mg/L),23.2
+AH_PL,Hồ Ayun Hạ,2022-08,M5,COD (mg/L),23.8
+AH_PL,Hồ Ayun Hạ,2022-08,M6,COD (mg/L),23.5
+AH_PL,Hồ Ayun Hạ,2022-08,M7,COD (mg/L),22.2
+AH_PL,Hồ Ayun Hạ,2022-08,M8,COD (mg/L),21.6
+AH_PL,Hồ Ayun Hạ,2022-08,M9,COD (mg/L),22.9
+AH_PL,Hồ Ayun Hạ,2022-08,M10,COD (mg/L),22.5
+AH_PL,Hồ Ayun Hạ,2022-08,M11,COD (mg/L),24.5
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Photphat (mgP-PO4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Photphat (mgP-PO4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Photphat (mgP-PO4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Photphat (mgP-PO4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Photphat (mgP-PO4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Photphat (mgP-PO4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Photphat (mgP-PO4/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Photphat (mgP-PO4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Photphat (mgP-PO4/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Photphat (mgP-PO4/L),0.15
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Photphat (mgP-PO4/L),0.3
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Amoni (mgN-NH4/L),0.08
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Amoni (mgN-NH4/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Nitrat (mgN-NO3/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Nitrat (mgN-NO3/L),0.19
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Nitrat (mgN-NO3/L),0.22
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Nitrat (mgN-NO3/L),0.18
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Nitrat (mgN-NO3/L),0.19
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Nitrat (mgN-NO3/L),0.29
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Nitrat (mgN-NO3/L),0.32
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2022-08,M1,Tổng Fe (mg/L),0.14
+AH_PL,Hồ Ayun Hạ,2022-08,M2,Tổng Fe (mg/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-08,M3,Tổng Fe (mg/L),0.68
+AH_PL,Hồ Ayun Hạ,2022-08,M4,Tổng Fe (mg/L),0.16
+AH_PL,Hồ Ayun Hạ,2022-08,M5,Tổng Fe (mg/L),0.39
+AH_PL,Hồ Ayun Hạ,2022-08,M6,Tổng Fe (mg/L),0.45
+AH_PL,Hồ Ayun Hạ,2022-08,M7,Tổng Fe (mg/L),0.17
+AH_PL,Hồ Ayun Hạ,2022-08,M8,Tổng Fe (mg/L),0.34
+AH_PL,Hồ Ayun Hạ,2022-08,M9,Tổng Fe (mg/L),0.48
+AH_PL,Hồ Ayun Hạ,2022-08,M10,Tổng Fe (mg/L),0.42
+AH_PL,Hồ Ayun Hạ,2022-08,M11,Tổng Fe (mg/L),0.49
+AH_PL,Hồ Ayun Hạ,2022-08,M1,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2022-08,M2,TC (MPN/100mL),200.0
+AH_PL,Hồ Ayun Hạ,2022-08,M3,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2022-08,M4,TC (MPN/100mL),240.0
+AH_PL,Hồ Ayun Hạ,2022-08,M5,TC (MPN/100mL),210.0
+AH_PL,Hồ Ayun Hạ,2022-08,M6,TC (MPN/100mL),120.0
+AH_PL,Hồ Ayun Hạ,2022-08,M7,TC (MPN/100mL),1800.0
+AH_PL,Hồ Ayun Hạ,2022-08,M8,TC (MPN/100mL),240.0
+AH_PL,Hồ Ayun Hạ,2022-08,M9,TC (MPN/100mL),140.0
+AH_PL,Hồ Ayun Hạ,2022-08,M10,TC (MPN/100mL),610.0
+AH_PL,Hồ Ayun Hạ,2022-08,M11,TC (MPN/100mL),2100.0
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Độ sâu (m),21.4
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Độ sâu (m),16.1
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Độ sâu (m),5.7
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Độ sâu (m),12.2
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Độ sâu (m),10.4
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Độ sâu (m),5.6
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Độ sâu (m),4.9
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Độ sâu (m),6.8
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Độ sâu (m),7.4
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Độ sâu (m),5.8
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Độ sâu (m),6.4
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Độ trong (cm),145.0
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Độ trong (cm),130.0
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Độ trong (cm),140.0
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Độ trong (cm),125.0
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Độ trong (cm),110.0
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Độ trong (cm),100.0
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Độ trong (cm),95.0
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Độ trong (cm),95.0
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Độ trong (cm),65.0
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Độ trong (cm),50.0
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Độ trong (cm),45.0
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Chl-a (ug/L),6.2
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Chl-a (ug/L),5.5
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Chl-a (ug/L),4.7
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Chl-a (ug/L),6.2
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Chl-a (ug/L),11.2
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Chl-a (ug/L),9.8
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Chl-a (ug/L),8.8
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Chl-a (ug/L),9.7
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Chl-a (ug/L),6.2
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Chl-a (ug/L),9.0
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Chl-a (ug/L),14.6
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Độ đục (NTU),6.22
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Độ đục (NTU),6.75
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Độ đục (NTU),6.49
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Độ đục (NTU),6.29
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Độ đục (NTU),8.04
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Độ đục (NTU),8.51
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Độ đục (NTU),9.16
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Độ đục (NTU),12.03
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Độ đục (NTU),15.95
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Độ đục (NTU),23.95
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Độ đục (NTU),25.08
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Nhiệt độ (0C),28.7
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Nhiệt độ (0C),28.5
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Nhiệt độ (0C),28.1
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Nhiệt độ (0C),28.7
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Nhiệt độ (0C),29.9
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Nhiệt độ (0C),31.1
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Nhiệt độ (0C),29.5
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Nhiệt độ (0C),30.1
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Nhiệt độ (0C),29.2
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Nhiệt độ (0C),29.2
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Nhiệt độ (0C),29.7
+AH_PL,Hồ Ayun Hạ,2022-11,M1,pH,8.78
+AH_PL,Hồ Ayun Hạ,2022-11,M2,pH,8.63
+AH_PL,Hồ Ayun Hạ,2022-11,M3,pH,8.41
+AH_PL,Hồ Ayun Hạ,2022-11,M4,pH,8.49
+AH_PL,Hồ Ayun Hạ,2022-11,M5,pH,8.51
+AH_PL,Hồ Ayun Hạ,2022-11,M6,pH,8.11
+AH_PL,Hồ Ayun Hạ,2022-11,M7,pH,7.82
+AH_PL,Hồ Ayun Hạ,2022-11,M8,pH,8.67
+AH_PL,Hồ Ayun Hạ,2022-11,M9,pH,8.17
+AH_PL,Hồ Ayun Hạ,2022-11,M10,pH,7.85
+AH_PL,Hồ Ayun Hạ,2022-11,M11,pH,8.33
+AH_PL,Hồ Ayun Hạ,2022-11,M1,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-11,M2,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-11,M3,EC (mS/cm),0.07
+AH_PL,Hồ Ayun Hạ,2022-11,M4,EC (mS/cm),0.076
+AH_PL,Hồ Ayun Hạ,2022-11,M5,EC (mS/cm),0.075
+AH_PL,Hồ Ayun Hạ,2022-11,M6,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-11,M7,EC (mS/cm),0.074
+AH_PL,Hồ Ayun Hạ,2022-11,M8,EC (mS/cm),0.077
+AH_PL,Hồ Ayun Hạ,2022-11,M9,EC (mS/cm),0.081
+AH_PL,Hồ Ayun Hạ,2022-11,M10,EC (mS/cm),0.086
+AH_PL,Hồ Ayun Hạ,2022-11,M11,EC (mS/cm),0.079
+AH_PL,Hồ Ayun Hạ,2022-11,M1,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-11,M2,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-11,M3,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-11,M4,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2022-11,M5,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2022-11,M6,TDS (mg/L),0.049
+AH_PL,Hồ Ayun Hạ,2022-11,M7,TDS (mg/L),0.048
+AH_PL,Hồ Ayun Hạ,2022-11,M8,TDS (mg/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-11,M9,TDS (mg/L),0.053
+AH_PL,Hồ Ayun Hạ,2022-11,M10,TDS (mg/L),0.055
+AH_PL,Hồ Ayun Hạ,2022-11,M11,TDS (mg/L),0.052
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Độ cứng (mgCaCO3/L),13.25
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Độ cứng (mgCaCO3/L),12.33
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Độ cứng (mgCaCO3/L),13.68
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Độ cứng (mgCaCO3/L),14.65
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Độ cứng (mgCaCO3/L),15.95
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Độ cứng (mgCaCO3/L),16.8
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Độ cứng (mgCaCO3/L),17.95
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Độ cứng (mgCaCO3/L),18.28
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Độ cứng (mgCaCO3/L),18.08
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Độ cứng (mgCaCO3/L),19.38
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Độ cứng (mgCaCO3/L),20.2
+AH_PL,Hồ Ayun Hạ,2022-11,M1,DO (mg/L),7.42
+AH_PL,Hồ Ayun Hạ,2022-11,M2,DO (mg/L),7.27
+AH_PL,Hồ Ayun Hạ,2022-11,M3,DO (mg/L),6.78
+AH_PL,Hồ Ayun Hạ,2022-11,M4,DO (mg/L),7.28
+AH_PL,Hồ Ayun Hạ,2022-11,M5,DO (mg/L),7.9
+AH_PL,Hồ Ayun Hạ,2022-11,M6,DO (mg/L),8.34
+AH_PL,Hồ Ayun Hạ,2022-11,M7,DO (mg/L),7.38
+AH_PL,Hồ Ayun Hạ,2022-11,M8,DO (mg/L),8.67
+AH_PL,Hồ Ayun Hạ,2022-11,M9,DO (mg/L),7.38
+AH_PL,Hồ Ayun Hạ,2022-11,M10,DO (mg/L),7.78
+AH_PL,Hồ Ayun Hạ,2022-11,M11,DO (mg/L),7.89
+AH_PL,Hồ Ayun Hạ,2022-11,M1,BOD5 (mg/L),1.0
+AH_PL,Hồ Ayun Hạ,2022-11,M2,BOD5 (mg/L),0.9
+AH_PL,Hồ Ayun Hạ,2022-11,M3,BOD5 (mg/L),0.8
+AH_PL,Hồ Ayun Hạ,2022-11,M4,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2022-11,M5,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2022-11,M6,BOD5 (mg/L),1.3
+AH_PL,Hồ Ayun Hạ,2022-11,M7,BOD5 (mg/L),0.9
+AH_PL,Hồ Ayun Hạ,2022-11,M8,BOD5 (mg/L),1.1
+AH_PL,Hồ Ayun Hạ,2022-11,M9,BOD5 (mg/L),1.2
+AH_PL,Hồ Ayun Hạ,2022-11,M10,BOD5 (mg/L),2.1
+AH_PL,Hồ Ayun Hạ,2022-11,M11,BOD5 (mg/L),3.3
+AH_PL,Hồ Ayun Hạ,2022-11,M1,COD (mg/L),18.45
+AH_PL,Hồ Ayun Hạ,2022-11,M2,COD (mg/L),20.68
+AH_PL,Hồ Ayun Hạ,2022-11,M3,COD (mg/L),20.9
+AH_PL,Hồ Ayun Hạ,2022-11,M4,COD (mg/L),19.98
+AH_PL,Hồ Ayun Hạ,2022-11,M5,COD (mg/L),19.05
+AH_PL,Hồ Ayun Hạ,2022-11,M6,COD (mg/L),19.35
+AH_PL,Hồ Ayun Hạ,2022-11,M7,COD (mg/L),18.25
+AH_PL,Hồ Ayun Hạ,2022-11,M8,COD (mg/L),20.63
+AH_PL,Hồ Ayun Hạ,2022-11,M9,COD (mg/L),19.85
+AH_PL,Hồ Ayun Hạ,2022-11,M10,COD (mg/L),22.08
+AH_PL,Hồ Ayun Hạ,2022-11,M11,COD (mg/L),22.53
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Photphat (mgP-PO4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Photphat (mgP-PO4/L),0.01
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Photphat (mgP-PO4/L),0.02
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Amoni (mgN-NH4/L),0.04
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Amoni (mgN-NH4/L),0.06
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Amoni (mgN-NH4/L),0.03
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Amoni (mgN-NH4/L),0.05
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Nitrat (mgN-NO3/L),0.12
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Nitrat (mgN-NO3/L),0.11
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Nitrat (mgN-NO3/L),0.07
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Nitrat (mgN-NO3/L),0.15
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Nitrat (mgN-NO3/L),0.09
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Nitrat (mgN-NO3/L),0.1
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Nitrat (mgN-NO3/L),0.14
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Nitrat (mgN-NO3/L),0.18
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Nitrat (mgN-NO3/L),0.16
+AH_PL,Hồ Ayun Hạ,2022-11,M1,Tổng Fe (mg/L),0.17
+AH_PL,Hồ Ayun Hạ,2022-11,M2,Tổng Fe (mg/L),0.25
+AH_PL,Hồ Ayun Hạ,2022-11,M3,Tổng Fe (mg/L),0.18
+AH_PL,Hồ Ayun Hạ,2022-11,M4,Tổng Fe (mg/L),0.19
+AH_PL,Hồ Ayun Hạ,2022-11,M5,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2022-11,M6,Tổng Fe (mg/L),0.22
+AH_PL,Hồ Ayun Hạ,2022-11,M7,Tổng Fe (mg/L),0.21
+AH_PL,Hồ Ayun Hạ,2022-11,M8,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2022-11,M9,Tổng Fe (mg/L),0.27
+AH_PL,Hồ Ayun Hạ,2022-11,M10,Tổng Fe (mg/L),0.26
+AH_PL,Hồ Ayun Hạ,2022-11,M11,Tổng Fe (mg/L),0.33
+AH_PL,Hồ Ayun Hạ,2022-11,M1,TC (MPN/100mL),1500.0
+AH_PL,Hồ Ayun Hạ,2022-11,M2,TC (MPN/100mL),90.0
+AH_PL,Hồ Ayun Hạ,2022-11,M3,TC (MPN/100mL),27.0
+AH_PL,Hồ Ayun Hạ,2022-11,M4,TC (MPN/100mL),14.0
+AH_PL,Hồ Ayun Hạ,2022-11,M5,TC (MPN/100mL),54.0
+AH_PL,Hồ Ayun Hạ,2022-11,M6,TC (MPN/100mL),1200.0
+AH_PL,Hồ Ayun Hạ,2022-11,M7,TC (MPN/100mL),1200.0
+AH_PL,Hồ Ayun Hạ,2022-11,M8,TC (MPN/100mL),90.0
+AH_PL,Hồ Ayun Hạ,2022-11,M9,TC (MPN/100mL),24.0
+AH_PL,Hồ Ayun Hạ,2022-11,M10,TC (MPN/100mL),780.0
+AH_PL,Hồ Ayun Hạ,2022-11,M11,TC (MPN/100mL),27.0

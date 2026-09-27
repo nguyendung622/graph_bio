@@ -1,0 +1,10 @@
+source,exact,fuzzy,fuzzy_rejected,higherrank,none,synonym,resolved_2nd_pass
+AH_CA,28,1,1,0,0,3,0
+AH_CTN,62,2,2,4,1,2,6
+AH_DVD,32,2,0,0,0,3,0
+AH_DVN,51,3,0,1,0,0,1
+AH_NL,12,0,0,0,0,2,0
+AH_TVN,59,1,0,6,0,13,3
+BH_DVD,64,3,1,1,0,2,5
+IALY_CA,105,1,0,0,0,3,0
+SESAN_CA,106,0,0,0,2,2,0

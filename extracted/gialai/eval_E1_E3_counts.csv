@@ -1,0 +1,10 @@
+source,waterbody,group,species_reported,records_extracted,genus_reported,genus_extracted,family_reported,family_extracted,order_reported,order_extracted,glyph_fixes
+AH_TVN,Hồ Ayun Hạ,phytoplankton,79,79,38,41,26,26,19.0,19,0
+AH_DVN,Hồ Ayun Hạ,zooplankton,55,55,27,27,21,21,,6,38
+AH_DVD,Hồ Ayun Hạ,zoobenthos,37,37,24,24,13,13,6.0,6,0
+AH_CA,Hồ Ayun Hạ,fish,33,33,31,31,20,20,9.0,9,2
+AH_CTN,Hồ Ayun Hạ,aquatic_insects,73,73,65,65,33,33,7.0,7,0
+AH_NL,Hồ Ayun Hạ,invasive_alien,14,14,13,13,11,11,10.0,10,0
+SESAN_CA,Sông Sê San,fish,110,110,66,66,24,24,8.0,8,0
+IALY_CA,Hồ TĐ Ialy,fish,109,109,67,68,22,22,9.0,9,0
+BH_DVD,Biển Hồ,zoobenthos,71,71,63,63,38,38,13.0,13,4

@@ -1,0 +1,15 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ3. Which threatened taxa (CR/EN/VU in any scheme) occur in each waterbody, and who asserts it?
+SELECT ?name ?waterbody (GROUP_CONCAT(DISTINCT CONCAT(?scheme, "-", ?ver, ":", ?cat); separator=", ") AS ?assessments)
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?src), "source/"); separator=",") AS ?sources)
+WHERE {
+  ?u bkg:hasAssessment ?a ; bkg:recordedIn ?w ; bkg:resolvesTo ?t .
+  ?a bkg:scheme ?scheme ; bkg:schemeVersion ?ver ; bkg:category ?cat ; prov:wasDerivedFrom ?src .
+  FILTER(?cat IN ("CR", "EN", "VU"))
+  ?t dwc:scientificName ?name . ?w rdfs:label ?waterbody .
+} GROUP BY ?name ?waterbody ORDER BY ?name

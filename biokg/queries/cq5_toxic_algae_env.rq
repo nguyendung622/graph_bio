@@ -1,0 +1,21 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ5. When and where did toxic cyanobacteria reach their highest densities, and what was the water quality there?
+SELECT ?name ?time ?site ?density ?chla ?po4 ?nh4 ?transparency
+WHERE {
+  ?t bkg:hasTrait bkg:ToxicCyanobacterium ; dwc:scientificName ?name .
+  ?o a bkg:AbundanceObservation ; bkg:observedTaxon ?t ; sosa:hasFeatureOfInterest ?s ;
+     bkg:localSiteCode ?site ; sosa:resultTime ?time ; sosa:hasSimpleResult ?density .
+  OPTIONAL { ?q1 a bkg:WaterQualityObservation ; sosa:hasFeatureOfInterest ?s ; sosa:resultTime ?time ;
+             sosa:observedProperty/rdfs:label "Chl-a (ug/L)"@vi ; sosa:hasSimpleResult ?chla }
+  OPTIONAL { ?q2 a bkg:WaterQualityObservation ; sosa:hasFeatureOfInterest ?s ; sosa:resultTime ?time ;
+             sosa:observedProperty/rdfs:label "Photphat (mgP-PO4/L)"@vi ; sosa:hasSimpleResult ?po4 }
+  OPTIONAL { ?q3 a bkg:WaterQualityObservation ; sosa:hasFeatureOfInterest ?s ; sosa:resultTime ?time ;
+             sosa:observedProperty/rdfs:label "Amoni (mgN-NH4/L)"@vi ; sosa:hasSimpleResult ?nh4 }
+  OPTIONAL { ?q4 a bkg:WaterQualityObservation ; sosa:hasFeatureOfInterest ?s ; sosa:resultTime ?time ;
+             sosa:observedProperty/rdfs:label "Độ trong (cm)"@vi ; sosa:hasSimpleResult ?transparency }
+} ORDER BY DESC(?density) LIMIT 15

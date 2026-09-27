@@ -1,0 +1,16 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ4. Where else are alien / invasive species (flagged in one document) recorded across all documents?
+SELECT ?name ?flag (GROUP_CONCAT(DISTINCT ?waterbody; separator=", ") AS ?waterbodies)
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?src), "source/"); separator=",") AS ?recorded_in_sources)
+WHERE {
+  ?u0 bkg:hasTrait ?trait ; bkg:resolvesTo ?t .
+  FILTER(?trait IN (bkg:InvasiveAlienSpecies, bkg:PotentialInvasiveSpecies, bkg:AlienSpecies))
+  BIND(STRAFTER(STR(?trait), "#") AS ?flag)
+  ?u bkg:resolvesTo ?t ; bkg:recordedIn ?w ; prov:wasDerivedFrom ?src .
+  ?w rdfs:label ?waterbody . ?t dwc:scientificName ?name .
+} GROUP BY ?name ?flag ORDER BY DESC(COUNT(DISTINCT ?src)) ?name

@@ -1,0 +1,14 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ1. How many taxa does each waterbody hold per taxonomic group, after name reconciliation?
+SELECT ?waterbody ?group (COUNT(DISTINCT ?u) AS ?records) (COUNT(DISTINCT ?name) AS ?distinct_accepted_names)
+WHERE {
+  ?u a bkg:NameUsage ; bkg:recordedIn ?w ; prov:wasDerivedFrom ?s ; bkg:resolvesTo ?t ; bkg:isMorphospecies false .
+  ?w rdfs:label ?waterbody . ?s bkg:taxonGroup ?group . ?t dwc:scientificName ?sn .
+  OPTIONAL { ?t bkg:acceptedNameGBIF ?acc }
+  BIND(COALESCE(?acc, ?sn) AS ?name)
+} GROUP BY ?waterbody ?group ORDER BY ?waterbody ?group

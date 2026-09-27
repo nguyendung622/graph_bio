@@ -1,0 +1,9 @@
+group,pair,names,n_a,n_b,shared,sorensen,gained_by_reconciliation
+fish,Hồ Ayun Hạ – Hồ TĐ Ialy,canonical,30,108,14,0.203,
+fish,Hồ Ayun Hạ – Hồ TĐ Ialy,accepted,30,108,16,0.232,"['Channa gachua', 'Monopterus albus']"
+fish,Hồ Ayun Hạ – Sông Sê San,canonical,30,110,11,0.157,
+fish,Hồ Ayun Hạ – Sông Sê San,accepted,30,110,13,0.186,"['Channa gachua', 'Monopterus albus']"
+fish,Hồ TĐ Ialy – Sông Sê San,canonical,108,110,63,0.578,
+fish,Hồ TĐ Ialy – Sông Sê San,accepted,108,110,64,0.587,"['Bangana behri', 'Pristolepis fasciata']"
+zoobenthos,Hồ Ayun Hạ – Biển Hồ,canonical,37,29,22,0.667,
+zoobenthos,Hồ Ayun Hạ – Biển Hồ,accepted,37,29,23,0.697,"['Bineurus mouhotii', 'Nephtys polybranchia', 'Pomacea bridgesii']"

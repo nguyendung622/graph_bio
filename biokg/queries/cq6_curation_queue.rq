@@ -1,0 +1,10 @@
+PREFIX bkg: <https://biokg.example.org/gialai/ontology#>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+# CQ6. Curation queue: which printed names need expert review, per document and issue type?
+SELECT (STRAFTER(STR(?src), "source/") AS ?source) (STRAFTER(STR(?issue), "#") AS ?issue_type) (COUNT(DISTINCT ?u) AS ?n)
+WHERE { ?u a bkg:NameUsage ; bkg:hasIssue ?issue ; prov:wasDerivedFrom ?src . }
+GROUP BY ?src ?issue ORDER BY ?source ?issue_type

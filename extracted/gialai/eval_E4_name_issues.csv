@@ -1,0 +1,71 @@
+source,raw_name,canonical,gbif_match,gbif_pass,gbif_name,gbif_accepted,gbif_family
+AH_TVN,"Anabaena spiroides Klebahn, 1895",Anabaena spiroides,synonym,1,Anabaena spiroides,Dolichospermum spiroides,Nostocaceae
+AH_TVN,"Pediastrum simplex Meyen, 1829",Pediastrum simplex,synonym,1,Pediastrum simplex,Monactinus simplex,Hydrodictyaceae
+AH_TVN,"Pediastrum tetras (Ehrenberg) Ralfs, 1844",Pediastrum tetras,synonym,1,Pediastrum tetras,Stauridium tetras,Hydrodictyaceae
+AH_TVN,"Tetraëdron regulare Kützing, 1845",Tetraedron regulare,exact,2,Tetraedron regulare,,Hydrodictyaceae
+AH_TVN,"Tetraedron trigonum Hansgirg, 1888",Tetraedron trigonum,exact,2,Tetraedron trigonum,,Hydrodictyaceae
+AH_TVN,"Coelastrum microsporum Nägeli, 1849",Coelastrum microsporum,fuzzy,1,Coelastrum microporum,,Scenedesmaceae
+AH_TVN,"Scenedesmus acuminatus (Lagerheim) Chodat, 1902",Scenedesmus acuminatus,synonym,1,Scenedesmus acuminatus,Tetradesmus lagerheimii,Scenedesmaceae
+AH_TVN,"Scenedesmus bicaudatus Dedusenko, 1925",Scenedesmus bicaudatus,higherrank,1,Desmodesmus,,Scenedesmaceae
+AH_TVN,"Ankistrodesmus arcuatus Korshikov, 1953",Ankistrodesmus arcuatus,synonym,1,Ankistrodesmus arcuatus,Ankistrodesmus,Selenastraceae
+AH_TVN,"Ankistrodesmus bibraianus (Reinsch) Korshikov, 1953",Ankistrodesmus bibraianus,synonym,1,Ankistrodesmus bibraianus,Selenastrum bibraianum,Selenastraceae
+AH_TVN,"Chlorella mucosa Korshikov, 1953",Chlorella mucosa,synonym,1,Chlorella mucosa,Korschpalmella mucosa,Sphaerocystidaceae
+AH_TVN,"Dictyosphaerium pulchellum H.C. Wood, 1873",Dictyosphaerium pulchellum,synonym,1,Dictyosphaerium pulchellum,Mucidosphaerium pulchellum,Chlorellaceae
+AH_TVN,"Cosmarium perfissum G.S.West, 1909",Cosmarium perfissum,higherrank,1,Plantae,,
+AH_TVN,Cosmarium sp.,Cosmarium sp.,exact,2,Cosmarium,,
+AH_TVN,"Staurastrum cuspidatum Brébisson, 1848",Staurastrum cuspidatum,synonym,1,Staurastrum cuspidatum,Staurodesmus cuspidatus,
+AH_TVN,"Staurastrum megacanthum P.Lundell, 1871",Staurastrum megacanthum,synonym,1,Staurastrum megacanthum,Staurodesmus megacanthus,
+AH_TVN,"Staurastrum prionotum A.M.Scott & Prescott, 1961",Staurastrum prionotum,higherrank,1,Staurastrum,,
+AH_TVN,"Staurastrum vaasii A.M.Scott & Prescott, 1961",Staurastrum vaasii,higherrank,1,Staurastrum,,
+AH_TVN,"Staurastrum zonatum Børgesen, 1890",Staurastrum zonatum,higherrank,1,Staurastrum,,
+AH_TVN,"Xanthidium calcarato-aculeatum (Hieronymus) Schmidle, 1898",Xanthidium calcarato-aculeatum,higherrank,1,Plantae,,
+AH_TVN,"Euglena oxyuris Schmarda, 1846",Euglena oxyuris,synonym,1,Euglena oxyuris,Lepocinclis oxyuris,Phacidae
+AH_TVN,"Euglena polymorpha P.A.Dangeard, 1902",Euglena polymorpha,synonym,1,Euglena polymorpha,Euglena granulata,Euglenaceae
+AH_TVN,"Glenodinium borgei (Lemmermann) Schiller, 1937",Glenodinium borgei,synonym,1,Glenodinium borgei,Peridiniopsis borgei,Peridiniopsidaceae
+AH_DVN,"Hexathra mira (Hudson, 1871)",Hexathra mira,fuzzy,1,Hexarthra mira,,Hexarthridae
+AH_DVN,"Asplanchna sieboldi (Leydig, 1854)",Asplanchna sieboldi,fuzzy,1,Asplanchna sieboldii,,Asplanchnidae
+AH_DVN,"Brachionus calyciflorus f. anuraeiformis Brehm, 1909",Brachionus calyciflorus anuraeiformis,exact,2,Brachionus calyciflorus anuraeiformis,,Brachionidae
+AH_DVN,"Ceriodaphnia rigaudii Richard, 1894",Ceriodaphnia rigaudii,fuzzy,1,Ceriodaphnia rigaudi,,Daphniidae
+AH_DVN,"Heterocypris anomala Klie, 1938 LARVA",Heterocypris anomala,higherrank,1,Heterocypris,,Cyprididae
+AH_DVD,"Nephthys polybranchia Southem, 1921",Nephthys polybranchia,synonym,1,Nephthys polybranchia,Nephtys polybranchia,Nephtyidae
+AH_DVD,"Pomacea bridgesi (Reeve, 1856)",Pomacea bridgesi,fuzzy,1,Pomacea bridgesii,,Ampullariidae
+AH_DVD,"Melanoides tuberculatus ( Müller, 1774)",Melanoides tuberculatus,fuzzy,1,Melanoides tuberculata,,Thiaridae
+AH_DVD,"Thiara scabra (Müller, 1774)",Thiara scabra,synonym,1,Thiara scabra,Mieniplotia scabra,Thiaridae
+AH_DVD,"Pseudodon mouhotii (Lea, 1863)",Pseudodon mouhotii,synonym,1,Pseudodon mouhoti,Bineurus mouhotii,Unionidae
+AH_CA,"Traccatichthys zispi ♦ (Prokofiev, 2004)",Traccatichthys zispi,synonym,1,Traccatichthys zispi,Micronemacheilus zispi,Nemacheilidae
+AH_CA,"Tachysurus fluvidraco (Richardson, 1846)",Tachysurus fluvidraco,fuzzy,1,Tachysurus fulvidraco,,Bagridae
+AH_CA,"Monopterus javanensis Lacepède, 1800●♠",Monopterus javanensis,synonym,1,Monopterus javanensis,Monopterus albus,Synbranchidae
+AH_CA,"Channa limbata (Cuvier, 1831)●♠",Channa limbata,synonym,1,Channa limbata,Channa gachua,Channidae
+AH_CTN,Ephemera sp.,Ephemera sp.,exact,2,Ephemera,,Ephemeridae
+AH_CTN,"Drunella perculta Allen, 1971",Drunella perculta,higherrank,1,Drunella,,Ephemerellidae
+AH_CTN,"Serratella albostriata Tong & Dudgeon, 2000",Serratella albostriata,higherrank,1,Serratella,,Ephemerellidae
+AH_CTN,Ecdyonurus landai Braasch & Soldán 1984,Ecdyonurus landai,higherrank,1,Ecdyonurus,,Heptageniidae
+AH_CTN,Ecdyonurus cervina Braasch & Soldán 1984,Ecdyonurus cervina,higherrank,1,Ecdyonurus,,Heptageniidae
+AH_CTN,Iron sp.,Iron sp.,synonym,2,Iron,,Heptageniidae
+AH_CTN,"Choroterpes trifurcata Ulmer, 1939",Choroterpes trifurcata,synonym,1,Choroterpes trifurcatus,Euthraulus trifurcatus,Leptophlebiidae
+AH_CTN,Hydropsyche sp.,Hydropsyche sp.,exact,2,Hydropsyche,,Hydropsychidae
+AH_CTN,Lepidostoma sp.,Lepidostoma sp.,exact,2,Lepidostoma,,Lepidostomatidae
+AH_CTN,Chimara sp.,Chimara sp.,fuzzy,2,Chimarra,,Philopotamidae
+AH_CTN,Bramahna sp.,Bramahna sp.,none,1,,,
+AH_CTN,Melliogomphus sp.,Melliogomphus sp.,fuzzy,1,Melligomphus,,Gomphidae
+AH_CTN,Limnophila sp.,Limnophila sp.,exact,2,Limnophila,,Limoniidae
+AH_NL,"Achatina albopicta Smith, 1878",Achatina albopicta,synonym,1,Achatina albopicta,Lissachatina albopicta,Achatinidae
+AH_NL,"Eichhornia crassipes Mart Solms, 1883",Eichhornia crassipes,synonym,1,Eichhornia crassipes,Pontederia crassipes,Pontederiaceae
+SESAN_CA,"Ceratogarra cambodgiensis (Tirant,1883)",Ceratogarra cambodgiensis,none,1,,,
+SESAN_CA,"Ceratogarra fasciacauda (Fowler, 1937)",Ceratogarra fasciacauda,none,1,,,
+SESAN_CA,"Incisilabeo behri (Fowler, 1937)",Incisilabeo behri,synonym,1,Incisilabeo behri,Bangana behri,Cyprinidae
+SESAN_CA,"Bagarius lica Volz, 1903",Bagarius lica,synonym,1,Bagarius lica,Bagarius yarrelli,Sisoridae
+IALY_CA,"Altigena tonkinensis (Pellegrin & Chevey, 1934)",Altigena tonkinensis,synonym,1,Altigena tonkinensis,Bangana tonkinensis,Cyprinidae
+IALY_CA,"Carassioides cantonensis (Heinke, 1892)",Carassioides cantonensis,synonym,1,Carassioides cantonensis,Carassioides acuminatus,Cyprinidae
+IALY_CA,"Incisilabeo behri (Fowler, 1937)",Incisilabeo behri,synonym,1,Incisilabeo behri,Bangana behri,Cyprinidae
+IALY_CA,"Pristolepis fasciatus (Bleeker, 1851)",Pristolepis fasciatus,fuzzy,1,Pristolepis fasciata,,Pristolepididae
+BH_DVD,"Pomacea bridgesi (Reeve, 1856)",Pomacea bridgesi,fuzzy,1,Pomacea bridgesii,,Ampullariidae
+BH_DVD,"Pseudodon mouhotii (Lea, 1863)",Pseudodon mouhotii,synonym,1,Pseudodon mouhoti,Bineurus mouhotii,Unionidae
+BH_DVD,Ephemera sp.,Ephemera sp.,exact,2,Ephemera,,Ephemeridae
+BH_DVD,"Drunella perculta Allen, 1971",Drunella perculta,higherrank,1,Drunella,,Ephemerellidae
+BH_DVD,"Choroterpes trifurcata Ulmer, 1939",Choroterpes trifurcata,synonym,1,Choroterpes trifurcatus,Euthraulus trifurcatus,Leptophlebiidae
+BH_DVD,Hydropsyche sp.,Hydropsyche sp.,exact,2,Hydropsyche,,Hydropsychidae
+BH_DVD,Lepidostoma sp.,Lepidostoma sp.,exact,2,Lepidostoma,,Lepidostomatidae
+BH_DVD,Chimara sp.,Chimara sp.,fuzzy,2,Chimarra,,Philopotamidae
+BH_DVD,Melliogomphus sp.,Melliogomphus sp.,fuzzy,1,Melligomphus,,Gomphidae
+BH_DVD,Limnophila sp.,Limnophila sp.,exact,2,Limnophila,,Limoniidae
